@@ -20,7 +20,7 @@ content:
   phone: +1 773 508-3583
   fax: +1 773 508-3739
   address:
-    street: 1032 W Sheridan Rd
+    street: Department of Computer Science, Loyola University Chicago, 1032 W Sheridan Rd
     city: Chicago
     region: IL
     postcode: '60660-1537'
