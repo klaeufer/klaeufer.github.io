@@ -47,29 +47,20 @@ design:
   flip_alt_rows: false
 ---
 
-## Fall 2022
-
-- COMP 335/488: Formal Methods in Software Engineering
-  - Thu 16:15-18:45 Cuneo 104
-  - [course notes](https://lucformalmethodscourse.github.io)
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_335_001_5761_1226)
-- COMP 371/471: Theory (and Practice) of Programming Languages
-  - Tue 16:15-18:45 SES 122
-  - [course notes](https://lucproglangcourse.github.io)
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_371_001_3918_1226)
-- Office hour:
-  - Tue/Thu after class (no appointment required)
-  - Fri 14:00-15:30 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
-
 ## Spring 2023
 
 - COMP 271: Data Structures I
-  - Mon/Wed 13:40-15:35
-  - [sample syllabus](https://docs.google.com/document/d/1Aq-kB3KF3uCvGoyHUzkvZY-3qbQPSfTFY28fsKZ3AnM)
+  - Mon/Wed 13:40-15:35 Cuneo 324 LSC
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_271_002_2027_1232)
+  - [syllabus](https://docs.google.com/document/d/1I7zUS6m_0_xx_ec0RXlcSTENSm3EkPg5_BJJHxzA-rY)
 - COMP 370/470: Software Quality and Testing
-  - Wed 16:15-18:45
-  - [sample syllabus](https://docs.google.com/document/d/10H3toVYPhREPsVEvOb4JIJpPZ9xn2cc3ZkgUZzPMN7A)
-  
+  - Wed 16:15-18:45 Cuneo 109 LSC
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_370_001_3848_1232)
+  - [syllabus](https://docs.google.com/document/d/1pTls6KZpnPUeZSqP_kv85AeH5Pu3h7nfJNiV5SRC-e4)
+- Office hour:
+  - Mon 15:40-17:00 Cuneo 324 (no appointment required)
+  - Wed 18:50-19:30 Cuneo 109 (no appointment required)
+  - Fri 14:00-16:00 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
 
 ## Code examples
 
