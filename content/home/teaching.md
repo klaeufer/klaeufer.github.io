@@ -47,20 +47,18 @@ design:
   flip_alt_rows: false
 ---
 
-## Spring 2023
+## Fall 2023
 
-- COMP 271: Data Structures I
-  - Mon/Wed 13:40-15:35 Cuneo 324 LSC
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_271_002_2027_1232)
-  - [syllabus](https://docs.google.com/document/d/1I7zUS6m_0_xx_ec0RXlcSTENSm3EkPg5_BJJHxzA-rY)
-- COMP 370/470: Software Quality and Testing
-  - Wed 16:15-18:45 Cuneo 109 LSC
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_370_001_3848_1232)
-  - [syllabus](https://docs.google.com/document/d/1pTls6KZpnPUeZSqP_kv85AeH5Pu3h7nfJNiV5SRC-e4)
+- COMP 141: Introduction to Computing Tools and Techniques
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_141_004_4392_1236) 
+  - [Course description](https://academics.cs.luc.edu/courses/comp141.html)
+- COMP 371/471: Theory (and Practice) of Programming Languages
+  - Tue 16:15-18:45 Cuneo 002 LSC
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_371_001_3543_1236)
+  - [Syllabus](https://lucproglangcourse.github.io/syllabus.html#section-001-fall-2023)
 - Office hour:
-  - Mon 15:40-17:00 Cuneo 324 (no appointment required)
-  - Wed 18:50-19:30 Cuneo 109 (no appointment required)
-  - Fri 14:00-16:00 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
+  - Tue 19:00-19:30 Cuneo 003 (after class - no appointment required)
+  - Wed/Fri 14:00-15:45 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
 
 ## Code examples
 
