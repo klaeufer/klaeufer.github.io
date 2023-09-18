@@ -7,9 +7,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 80
 
-title: Research
+title: Service
 subtitle: ''
 
 content:
@@ -47,11 +47,9 @@ design:
   flip_alt_rows: false
 ---
 
-##  Active projects
+## Current program committees
 
-- [UnoAPI](https://unoapi.cs.luc.edu): Curricular modules for high-performance computing using data-parallel C++ with Intel's OneAPI.
-- [Metrics Project](http://metricsdashboard.cs.luc.edu): Longitudinal process quality metrics for software development, including
-  - [SparkBadge](https://github.com/klaeufer/sparkbadge): Longitudinal project status badges.
-- [DriveAware](https://ecommons.luc.edu/csrs/ay2021-2022/techreport/1): Generating actionable data on social justice issues through vehicle-based citizen science. 
-- Doyle Living Systems Lab (incubation): Smart spaces using open-source software and hardware.
-- [Loyola42ndParallel](https://loyola42ndparallel.github.io) (incubation): A data-driven view of sustainability and other social justice challenges along the 42nd parallel, which runs not only through Chicago but also through Loyola University Chicago's main campus.
+- [19th International Conference on Software Technologies (ICSOFT 2024)](https://icsoft.scitevents.org) 
+- [24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID’2024)](https://2024.ccgrid-conference.org)
+- [9th IEEE International Conference on Data Science and Systems (DSS-2023)](http://www.swinflow.org/confs/2023/dss)
+- [EduHPC-23: Workshop on Education for High-Performance Computing](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc23)

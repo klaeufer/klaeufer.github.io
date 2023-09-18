@@ -57,7 +57,7 @@ social:
     link: 'https://scholar.google.com/citations?user=Rs0f_nMAAAAJ'
   - icon: linkedin
     icon_pack: fab
-    link: 'http://www.linkedin.com/in/laufer'
+    link: 'https://www.linkedin.com/in/laufer'
   - icon: cv
     icon_pack: ai
     link: 'https://github.com/klaeufer/cv/releases/latest/download/laufer-cv.pdf'

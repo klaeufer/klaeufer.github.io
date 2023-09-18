@@ -37,7 +37,7 @@ content:
     - icon: acmdl
       icon_pack: ai
       name: "ACM Digital Library"
-      link: 'http://dl.acm.org/author_page.cfm?id=81100009927'
+      link: 'https://dl.acm.org/author_page.cfm?id=81100009927'
     - icon: arxiv
       icon_pack: ai
       name: 'arXiv'
@@ -57,7 +57,7 @@ content:
     - icon: dblp
       icon_pack: ai
       name: 'DBLP'
-      link: 'http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/L=auml=ufer:Konstantin.html'
+      link: https://dblp.uni-trier.de/pid/l/KLaufer.html
     - icon: github
       icon_pack: fab
       name: GitHub
@@ -65,7 +65,7 @@ content:
     - icon: graduation-cap
       icon_pack: fas
       name: 'Google Scholar'
-      link: 'http://scholar.google.com/citations?user=Rs0f_nMAAAAJ'
+      link: 'https://scholar.google.com/citations?user=Rs0f_nMAAAAJ'
     - icon: instagram
       icon_pack: fab
       name: Instagram
@@ -73,7 +73,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
-      link: 'http://www.linkedin.com/in/laufer'
+      link: 'https://www.linkedin.com/in/laufer'
     - icon: dna
       icon_pack: fas
       name: 'Mathematics Genealogy Project'
@@ -101,11 +101,11 @@ content:
     - icon: xing
       icon_pack: fab
       name: Xing
-      link: 'http://www.xing.com/profile/Konstantin_Laeufer'
+      link: 'https://www.xing.com/profile/Konstantin_Laeufer'
     - icon: youtube
       icon_pack: fab
       name: YouTube
-      link: 'http://www.youtube.com/user/klaeufer'
+      link: 'https://www.youtube.com/user/klaeufer'
 
 design:
   columns: '2'
