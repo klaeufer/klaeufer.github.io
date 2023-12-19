@@ -47,6 +47,20 @@ design:
   flip_alt_rows: false
 ---
 
+## Spring 2024
+
+- COMP 141: Introduction to Computing Tools and Techniques
+  - Thu 16:15-17:30 online
+  - Sakai site TBA
+  - [Course description](https://academics.cs.luc.edu/courses/comp141.html)
+- COMP 335/488-001: Formal Methods in Software Engineering
+  - Tue 16:15-18:45 SES 123 LSC in person
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_335_001_6418_1242)
+  - [Course website](https://lucformalmethodscourse.github.io)
+- Office hour:
+  - Tue 19:00-19:30 SES 123 LSC (after class - no appointment required)
+  - Wed/Fri 14:00-15:45 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
+
 ## Fall 2023
 
 - COMP 141: Introduction to Computing Tools and Techniques
