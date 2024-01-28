@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: blog
-    url: 'https://twitter.com/klaeufer'
+    url: 'https://dev.to/klaeufer'
     weight: 20
   - name: contact
     url: '#contact'
