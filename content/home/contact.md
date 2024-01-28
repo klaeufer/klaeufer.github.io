@@ -58,6 +58,10 @@ content:
       icon_pack: ai
       name: 'DBLP'
       link: https://dblp.uni-trier.de/pid/l/KLaufer.html
+    - icon: dev
+      icon_pack: fab
+      name: 'DEV'
+      link: 'https://dev.to/klaeufer'
     - icon: github
       icon_pack: fab
       name: GitHub
