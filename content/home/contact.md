@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: laufer@cs.luc.edu
+  email: klaufer@luc.edu
   phone: +1 773 508-3583
   fax: +1 773 508-3739
   address:
