@@ -52,6 +52,7 @@ design:
 - [UnoAPI](https://unoapi.cs.luc.edu): Curricular modules for high-performance computing using data-parallel C++ with Intel's OneAPI.
 - [Metrics Project](http://metricsdashboard.cs.luc.edu): Longitudinal process quality metrics for software development, including
   - [SparkBadge](https://github.com/klaeufer/sparkbadge): Longitudinal project status badges.
+  - [Test Effectiveness](/publication/scala-2019): Metrics for testing techniques and practices.
 - [DriveAware](https://ecommons.luc.edu/csrs/ay2021-2022/techreport/1): Generating actionable data on social justice issues through vehicle-based citizen science. 
 - Doyle Living Systems Lab (incubation): Smart spaces using open-source software and hardware.
 - [Loyola42ndParallel](https://loyola42ndparallel.github.io) (incubation): A data-driven view of sustainability and other social justice challenges along the 42nd parallel, which runs not only through Chicago but also through Loyola University Chicago's main campus.
