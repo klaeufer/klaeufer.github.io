@@ -49,7 +49,7 @@ design:
 
 ## Current program committees
 
+- [EduHPC-24: Workshop on Education for High-Performance Computing](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc24)
 - [19th International Conference on Software Technologies (ICSOFT 2024)](https://icsoft.scitevents.org) 
 - [24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID’2024)](https://2024.ccgrid-conference.org)
 - [9th IEEE International Conference on Data Science and Systems (DSS-2023)](http://www.swinflow.org/confs/2023/dss)
-- [EduHPC-23: Workshop on Education for High-Performance Computing](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc23)

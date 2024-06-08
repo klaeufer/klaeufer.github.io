@@ -47,37 +47,35 @@ design:
   flip_alt_rows: false
 ---
 
-## Spring 2024
+## Spring 2025 (tentative)
 
 - COMP 141: Introduction to Computing Tools and Techniques
-  - Thu 16:15-17:30 online
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_141_004_4121_1242)
   - [Course description](https://academics.cs.luc.edu/courses/comp141.html)
 - COMP 335/488-001: Formal Methods in Software Engineering
-  - Tue 16:15-18:45 SES 123 LSC in person
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_335_001_6418_1242)
   - [Course website](https://lucformalmethodscourse.github.io)
-- Office hour:
-  - Tue 19:00-19:30 SES 123 LSC (after class - no appointment required)
-  - Wed 13:00-14:30 and Fri 14:00-15:45 Doyle 203 or online (please use [Calendly](https://calendly.com/laufer) to make an appointment)
 
-## Fall 2023
+## Fall 2024
 
-- COMP 141: Introduction to Computing Tools and Techniques
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_141_004_4392_1236) 
-  - [Course description](https://academics.cs.luc.edu/courses/comp141.html)
 - COMP 371/471: Theory (and Practice) of Programming Languages
-  - Tue 16:15-18:45 Cuneo 002 LSC
+  - Tue 16:15-18:45 LSC
   - [Sakai site](https://sakai.luc.edu/portal/site/COMP_371_001_3543_1236)
   - [Syllabus](https://lucproglangcourse.github.io/syllabus.html#section-001-fall-2023)
+- COMP 373/473: Advanced Object-Oriented Programming
+  - Thu 16:15-18:45 LSC
+  - Sakai site
+  - Syllabus
 - Office hour:
-  - Tue 19:00-19:30 Cuneo 003 (after class - no appointment required)
-  - Wed/Fri 14:00-15:45 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
-
+  - Tue/Thu 19:00-19:30 (after class - no appointment required)
+  - Wed/Fri TBD (please use [Calendly](https://calendly.com/laufer) to make an appointment)
+  
 ## Code examples
 
 [GitHub](https://github.com/loyolachicagocode)
 
 ## Past courses
 
-Please see my {{< staticref "https://sites.google.com/a/cs.luc.edu/laufer" "newtab" >}}legacy website{{< /staticref >}} for past course content.
+- COMP 271: Data Structures I
+- COMP 313/413: Intermediate Object-Oriented Programming
+- COMP 335/488-001: Formal Methods in Software Engineering
+  - [Course website](https://lucformalmethodscourse.github.io)
+- COMP 370/470: Software Quality

@@ -6,7 +6,7 @@ title: Konstantin Läufer
 superuser: true
 
 # Role/position/tagline
-role: Professor, Department of Computer Science
+role: Professor of of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,6 +38,7 @@ education:
       institution: University of Konstanz
       year: 1984
 
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -58,9 +59,14 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/laufer'
+  - icon: orcid
+    icon_pack: ai
+    name: ORCID
+    link: 'https://orcid.org/0000-0002-7548-0876'
   - icon: cv
     icon_pack: ai
     link: 'https://github.com/klaeufer/cv/releases/latest/download/laufer-cv.pdf'
+   
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -92,3 +98,7 @@ I also served in various administrative roles, including associate dean of the g
 ## Hobbies
 
 Music (saxophone), trail running (non-ultra), strength training, soccer, hiking, nordic skiing, sailing, traveling (especially scenic driving on unpaved backroads leading to remote trailheads and campsites), current affairs, movies.
+
+## Languages
+
+eng/spa/deu/gsw/ita
