@@ -83,7 +83,7 @@ highlight_name: true
 ---
 
 Hello and welcome! 
-Sali und willkomme zäme!
+Sali und wöllkomm zäme!
 ¡Hola y bienvenidos/as!
 Ciao e benvenuti/e!
 
