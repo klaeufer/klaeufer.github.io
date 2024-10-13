@@ -6,7 +6,7 @@ title: Konstantin Läufer
 superuser: true
 
 # Role/position/tagline
-role: Professor of of Computer Science
+role: Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
