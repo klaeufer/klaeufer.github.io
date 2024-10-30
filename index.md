@@ -1,7 +1,7 @@
 # Konstantin L&auml;ufer
 
 Hello and welcome! 
-Sali und wöllkomm zäme!
+Sali und willkumme zäme!
 ¡Hola y bienvenidos/as!
 Ciao e benvenuti/e!
 
@@ -19,4 +19,4 @@ Music (saxophone), trail running (non-ultra), strength training, soccer, hiking,
 
 ## Languages
 
-eng (C2)/spa (C1)/deu (C2)/gsw (B2)/ita (B1)
+eng (C2+)/spa (C1)/deu (C2+)/gsw (B2)/ita (B1)
