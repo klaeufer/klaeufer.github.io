@@ -1,3 +1,5 @@
+[Blog](https://dev.to/klaeufer) | ([Publications](https://ecommons.luc.edu/do/search/?q=author%3A%22Konstantin%20L%C3%A4ufer%22&start=0&context=2240135&sort=date_desc&facet=)
+
 Hello and welcome! 
 Sali und willkumme zäme!
 ¡Hola y bienvenidos/as!
