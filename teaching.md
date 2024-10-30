@@ -1,11 +1,13 @@
-## Spring 2025 (tentative)
+## Teaching
+
+### Spring 2025 (tentative)
 
 - COMP 141: Introduction to Computing Tools and Techniques
   - [Course description](https://academics.cs.luc.edu/courses/comp141.html)
 - COMP 335/488-001: Formal Methods in Software Engineering
   - [Course website](https://lucformalmethodscourse.github.io)
 
-## Fall 2024
+### Fall 2024
 
 - COMP 371/471: Theory (and Practice) of Programming Languages
   - Tue 16:15-18:45 LSC
@@ -19,11 +21,11 @@
   - Tue/Thu 19:00-19:30 (after class - no appointment required)
   - Wed/Fri TBD (please use [Calendly](https://calendly.com/laufer) to make an appointment)
   
-## Code examples
+### Code examples
 
 [GitHub](https://github.com/loyolachicagocode)
 
-## Past courses
+### Past courses
 
 - COMP 271: Data Structures I
 - COMP 313/413: Intermediate Object-Oriented Programming

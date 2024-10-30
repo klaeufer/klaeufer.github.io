@@ -1,4 +1,4 @@
-[Blog](https://dev.to/klaeufer) | [Publications](https://ecommons.luc.edu/do/search/?q=author%3A%22Konstantin%20L%C3%A4ufer%22&start=0&context=2240135&sort=date_desc&facet=) | [Teaching](./teaching.html)
+[Blog](https://dev.to/klaeufer) &bull; [Publications](https://ecommons.luc.edu/do/search/?q=author%3A%22Konstantin%20L%C3%A4ufer%22&start=0&context=2240135&sort=date_desc&facet=) &bull; [Teaching](./teaching.html)
 
 
 Hello and welcome! 
@@ -17,6 +17,8 @@ I also served in various administrative roles, including assistant chair (1998-2
 
 
 ## Research projects
+
+Coming soon...
 
 
 ## Program committees
