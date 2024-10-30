@@ -1,9 +1,11 @@
-[Blog](https://dev.to/klaeufer) | ([Publications](https://ecommons.luc.edu/do/search/?q=author%3A%22Konstantin%20L%C3%A4ufer%22&start=0&context=2240135&sort=date_desc&facet=)
+[Blog](https://dev.to/klaeufer) | [Publications](https://ecommons.luc.edu/do/search/?q=author%3A%22Konstantin%20L%C3%A4ufer%22&start=0&context=2240135&sort=date_desc&facet=) | [Teaching](./teaching.html)
+
 
 Hello and welcome! 
 Sali und willkumme zäme!
 ¡Hola y bienvenidos/as!
 Ciao e benvenuti/e!
+
 
 ## Brief bio
 
@@ -12,6 +14,18 @@ I am a professor of computer science at Loyola University Chicago. I majored in 
 My research and teaching interests include programming languages, software architecture, distributed and pervasive computing systems, and data engineering, as well as applications in environmental sustainability and other areas of social justice. I'm affiliated with the Software and Systems Laboratory (SSL), an environment for computer systems and applied software engineering research. My research has been funded by government agencies and corporations. I'm a co-inventor on two patents owned by Lucent Technologies, where I was a research consultant (1996-2000). 
 
 I also served in various administrative roles, including assistant chair (1998-2001), associate dean of the graduate school (2005-06), department chair (2012-2018), and graduate program director (2019-20).
+
+
+## Research projects
+
+
+## Program committees
+
+- [EduHPC-24: Workshop on Education for High-Performance Computing](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc24)
+- [19th International Conference on Software Technologies (ICSOFT 2024)](https://icsoft.scitevents.org) 
+- [24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID’2024)](https://2024.ccgrid-conference.org)
+- [9th IEEE International Conference on Data Science and Systems (DSS-2023)](http://www.swinflow.org/confs/2023/dss)
+
 
 ## Hobbies
 
