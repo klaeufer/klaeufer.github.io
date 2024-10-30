@@ -1,5 +1,3 @@
-# Konstantin L&auml;ufer
-
 Hello and welcome! 
 Sali und willkumme zäme!
 ¡Hola y bienvenidos/as!
