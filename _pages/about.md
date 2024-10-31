@@ -2,7 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: Welcome! ¡Bienvenidos/as! Willkumme zäme! Benvenuti/e! # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+   Welcome! ¡Bienvenidos/as! Willkumme zäme! Benvenuti/e!
+   Pronouns: he/él/er/lui
+   # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
