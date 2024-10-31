@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
    Welcome! ¡Bienvenidos/as! Willkumme zäme! Benvenuti/e!
    <br/>
-   How to pronounce: k'ɔnstantɪn lˈɔ͡øfɜ
+   How to pronounce (IPA): ˈkɔnstantiːn ˈlɔʏfɐ
    <br/>
    Pronouns: he/él/er/lui
 
@@ -40,4 +40,4 @@ Music (saxophone), trail running (non-ultra), strength training, soccer, hiking,
 
 ## Languages
 
-eng (C2+)/spa (C1)/deu (C2+)/gsw (B2)/ita (B1)
+eng (C2+)/spa (C1)/deu (C2+)/gsw (B2)/ita (B1)/fra (A2)
