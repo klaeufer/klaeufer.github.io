@@ -26,7 +26,7 @@ nav_order: 6
   - Syllabus
 - Office hour:
   - Tue/Thu 19:00-19:30 (after class - no appointment required)
-  - Wed/Fri TBD (please use [Calendly](https://calendly.com/laufer) to make an appointment)
+  - Wed/Fri 14:00-15:45 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
   
 ## Code examples
 
