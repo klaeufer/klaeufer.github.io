@@ -21,7 +21,7 @@ profile:
     <p>USA</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -46,7 +46,7 @@ Music (saxophone), trail running (non-ultra), strength training, soccer, day hik
 
 > "Talking about the thing isn't doing the thing, planning to do the thing isn't doing the thing, buying all of the products to be able to do the thing isn't doing the thing, like, you've got to eventually do the thing."
 >
-> - Unknown quoted by [Scott A. Brady](https://www.instagram.com/scott.a.brady/)
+> - Unknown source quoted by [Scott A. Brady](https://www.instagram.com/scott.a.brady/)
 
 ## Languages
 
