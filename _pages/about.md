@@ -36,7 +36,7 @@ I also served in various administrative roles, including assistant chair (1998-2
 
 ## Hobbies
 
-Music (saxophone), trail running (non-ultra), strength training, soccer, hiking, nordic skiing, sailing, traveling (especially scenic driving on unpaved backroads leading to remote trailheads and campsites), current affairs, movies.
+Music (saxophone), trail running (non-ultra), strength training, soccer, day hiking, nordic skiing, sailing, traveling (especially scenic driving on unpaved backroads leading to remote trailheads and campsites), current affairs, movies.
 
 ## Languages
 
