@@ -41,12 +41,12 @@ Music (saxophone), trail running (non-ultra), strength training, soccer, day hik
 ## Quotes
 
 > "I bet you, if you totaled your Instagram scroll time, you could write a book in a year."
-
-  - [Scott A. Brady](https://www.instagram.com/scott.a.brady/)
+>
+> - [Scott A. Brady](https://www.instagram.com/scott.a.brady/)
 
 > "Talking about the thing isn't doing the thing, planning to do the thing isn't doing the thing, buying all of the products to be able to do the thing isn't doing the thing, like, you've got to eventually do the thing."
-
-  - Unknown quoted by [Scott A. Brady](https://www.instagram.com/scott.a.brady/)
+>
+> - Unknown quoted by [Scott A. Brady](https://www.instagram.com/scott.a.brady/)
 
 ## Languages
 
