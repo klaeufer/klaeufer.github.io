@@ -10,7 +10,7 @@ nav_order: 6
 ## Spring 2025
 
 - COMP 141: Introduction to Computing Tools and Techniques
-  - Thu 16:15-17:00 online
+  - Thu 16:15-17:30 online
   - [Sakai site](https://sakai.luc.edu/portal/site/COMP_141_004_3676_1252)
   - [Course description](https://catalog.luc.edu/course-descriptions/comp)
 - COMP 335/488-335: Formal Methods in Software Engineering
