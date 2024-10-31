@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-## Brief bio
+## brief bio
 
 I am a professor of computer science at Loyola University Chicago. I majored in physics at the University of Konstanz, Germany, and attended Rutgers University, New Jersey, as an exchange student. Prior to joining Loyola in 1992, I earned a PhD in computer science from the Courant Institute at New York University under the supervision of [Benjamin F. Goldberg](https://cs.nyu.edu/~goldberg) and [Martin Odersky](https://lampwww.epfl.ch/~odersky). 
 
@@ -28,10 +28,10 @@ My research and teaching interests include programming languages, software archi
 
 I also served in various administrative roles, including assistant chair (1998-2001),  associate dean of the graduate school (2005-06), department chair (2012-2018), and graduate program director (2019-20).
 
-## Hobbies
+## hobbies
 
 Music (saxophone), trail running (non-ultra), strength training, soccer, hiking, nordic skiing, sailing, traveling (especially scenic driving on unpaved backroads leading to remote trailheads and campsites), current affairs, movies.
 
-## Languages
+## languages
 
 eng (C2+)/spa (C1)/deu (C2+)/gsw (B2)/ita (B1)
