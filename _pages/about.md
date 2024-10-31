@@ -5,6 +5,8 @@ permalink: /
 subtitle: >
    Welcome! ¡Bienvenidos/as! Willkumme zäme! Benvenuti/e!
    <br/>
+   How to pronounce: k'ɔnstantɪn lˈɔ͡øfɜ
+   <br/>
    Pronouns: he/él/er/lui
 
 profile:
