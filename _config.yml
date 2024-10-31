@@ -171,6 +171,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
    - name: DEV Blog
+     rss_url: https://dev.to/feed/klaeufer
      posts:
         - url: https://dev.to/klaeufer
 #  - name: medium.com
