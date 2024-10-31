@@ -170,8 +170,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-   - name: DEV Blog
-     rss_url: https://dev.to/feed/klaeufer
+#   - name: DEV Blog
+#     rss_url: https://dev.to/feed/klaeufer
 #     posts:
 #        - url: https://dev.to/klaeufer
 #  - name: medium.com
