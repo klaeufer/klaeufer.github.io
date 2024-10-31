@@ -38,6 +38,16 @@ I also served in various administrative roles, including assistant chair (1998-2
 
 Music (saxophone), trail running (non-ultra), strength training, soccer, day hiking, nordic skiing, sailing, traveling (especially scenic driving on unpaved backroads leading to remote trailheads and campsites), current affairs, movies.
 
+## Quotes
+
+> "I bet you, if you totaled your Instagram scroll time, you could write a book in a year."
+
+  - [Scott A. Brady](https://www.instagram.com/scott.a.brady/)
+
+> "Talking about the thing isn't doing the thing, planning to do the thing isn't doing the thing, buying all of the products to be able to do the thing isn't doing the thing, like, you've got to eventually do the thing."
+
+  - Unknown quoted by [Scott A. Brady](https://www.instagram.com/scott.a.brady/)
+
 ## Languages
 
 eng (C2+)/spa (C1)/deu (C2+)/gsw (heritage learner, B2?)/ita (B1)/fra (A2-)
