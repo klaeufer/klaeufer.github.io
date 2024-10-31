@@ -10,8 +10,12 @@ nav_order: 6
 ## Spring 2025
 
 - COMP 141: Introduction to Computing Tools and Techniques
+  - Thu 16:15-17:00 online
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_141_004_3676_1252)
   - [Course description](https://catalog.luc.edu/course-descriptions/comp)
 - COMP 335/488-335: Formal Methods in Software Engineering
+  - Tue 16:15-18:45 LSC
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_335_001_5828_1252)
   - [Course website](https://lucformalmethodscourse.github.io)
 
 ## Fall 2024
@@ -22,8 +26,8 @@ nav_order: 6
   - [Syllabus](https://lucproglangcourse.github.io/syllabus.html#section-001-fall-2023)
 - COMP 373/473: Advanced Object-Oriented Programming
   - Thu 16:15-18:45 LSC
-  - Sakai site
-  - Syllabus
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_373_001_6519_1246)
+  - [Syllabus](https://github.com/klaeufer/lucadvoopcourse/blob/main/Syllabus2024Fall.md)
 - Office hour:
   - Tue/Thu 19:00-19:30 (after class - no appointment required)
   - Wed/Fri 14:00-15:45 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
