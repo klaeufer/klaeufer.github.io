@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Current, recent, and past courses taught.
+description: Current and recent courses taught.
 nav: true
 nav_order: 6
 ---
@@ -36,8 +36,10 @@ nav_order: 6
 
 [GitHub](https://github.com/loyolachicagocode)
 
-## Past courses
+## Recent courses
 
 - COMP 271: Data Structures I
 - COMP 313/413: Intermediate Object-Oriented Programming
 - COMP 370/470: Software Quality
+
+Please see my [CV](https://github.com/klaeufer/cv/releases/latest) for a list of all courses developed and/or taught.
