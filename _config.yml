@@ -172,8 +172,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
    - name: DEV Blog
      rss_url: https://dev.to/feed/klaeufer
-     posts:
-        - url: https://dev.to/klaeufer
+#     posts:
+#        - url: https://dev.to/klaeufer
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
 #  - name: Google Blog
