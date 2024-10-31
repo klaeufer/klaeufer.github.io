@@ -1,14 +1,19 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - klaeufer
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - lucproglangcourse/lucproglangcourse.github.io
+  - lucproglangcourse/simplecli-scala
+  - lucproglangcourse/iterators-scala
+  - lucproglangcourse/expressions-algebraic-scala
+  - lucproglangcourse/primenumbers-http4s-scala
+  - lucproglangcourse/primechecker-azure-java
+  - lucformalmethodscourse/lucformalmethodscourse.github.io
+  - lucformalmethodscourse/arrayqueue-jqwik-java-sbt
+  - lucformalmethodscourse/rivercrossing-tla
+  - lucformalmethodscourse/diehard-tla
+  - lucformalmethodscourse/microwave-tla
+  - lucformalmethodscourse/philosphers-tla
+  - lucformalmethodscourse/simpleconcurrency-tla

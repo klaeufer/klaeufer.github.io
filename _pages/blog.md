@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /blog/
+permalink: https://dev.to/klaeufer
+permalink: /blog/ 
 title: blog
 nav: true
 nav_order: 1
