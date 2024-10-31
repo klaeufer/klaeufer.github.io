@@ -40,4 +40,4 @@ Music (saxophone), trail running (non-ultra), strength training, soccer, day hik
 
 ## Languages
 
-eng (C2+)/spa (C1)/deu (C2+)/gsw (B2)/ita (B1)/fra (A2)
+eng (C2+)/spa (C1)/deu (C2+)/gsw (heritage learner, B2?)/ita (B1)/fra (A2-)
