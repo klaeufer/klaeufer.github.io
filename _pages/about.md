@@ -9,8 +9,6 @@ subtitle: >
    <br/>
    Pronouns: he/él/er/lui
    <br/>
-   <a href="https://www.luc.edu/cs/aboutus/people/profiles/lauferkonstantin.shtml">Official homepage</a>
-   <br/>
    <a href="https://dev.to/klaeufer">Blog</a>
 
 profile:
