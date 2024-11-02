@@ -9,13 +9,13 @@ subtitle: >
    <br/>
    Pronouns: he/él/er/lui
    <br/>
-   <a href="https://calendly.com/laufer">Make an appointment</a>
-   &bull;
    <a href="https://dev.to/klaeufer">Blog</a>
    &bull;
    <a href="https://github.com/klaeufer/cv/releases/latest">CV</a>   
    &bull;
    <a href="https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=Konstantin&PILastName=Laufer&IncludeCoPI=true&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&ExpiredAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=">Grants</a>
+   &bull;
+   <a href="https://calendly.com/laufer">Make an appointment</a>
 
 profile:
   align: right
