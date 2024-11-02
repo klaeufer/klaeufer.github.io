@@ -9,6 +9,8 @@ subtitle: >
    <br/>
    Pronouns: he/él/er/lui
    <br/>
+   <a href="https://calendly.com/laufer">Make an appointment with me</a>
+   <br/>
    <a href="https://dev.to/klaeufer">Blog</a>
    <br/>
    <a href="https://github.com/klaeufer/cv/releases/latest">CV</a>   
