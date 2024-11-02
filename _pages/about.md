@@ -9,22 +9,24 @@ subtitle: >
    <br/>
    Pronouns: he/él/er/lui
    <br/>
-   [Official homepage](https://www.luc.edu/cs/aboutus/people/profiles/lauferkonstantin.shtml)
+   <a href="https://www.luc.edu/cs/aboutus/people/profiles/lauferkonstantin.shtml">Official homepage</a>
    <br/>
-   [Blog](https://dev.to/klaeufer)
+   <a href="https://dev.to/klaeufer">Blog</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    [Department of Computer Science](https://luc.edu/cs)
+    <a href="https://luc.edu/cs">Dept. of Computer Science</a>
     <br/>
-    [Loyola University Chicago](https://luc.edu)
+    <a href="https://luc.edu">Loyola University Chicago</a>
     <br/>
     1032 W Sheridan Rd
     <br/>
-    Chicago, Illinois 60660-1537, USA
+    Chicago, Illinois 60660
+    <br/>
+    USA
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
