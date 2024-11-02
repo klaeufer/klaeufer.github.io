@@ -16,7 +16,6 @@
 
 "PHOENIX":
   url: https://link-springer-com.flagship.luc.edu/book/10.1007/978-1-4471-3794-8
-  color: "#f0ffee"
 
 "CLEI":
   url: https://clei.org
@@ -117,3 +116,7 @@
 
 "EVB":
   url: https://journals.sagepub.com/home/evb
+
+"eScience":
+  url: https://www.escience-conference.org/
+  color: "#fca22c"  
