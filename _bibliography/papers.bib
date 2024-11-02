@@ -7,8 +7,14 @@
   year        = {2018},
   doi         = {https://doi.org/10.1007/978-3-319-93109-8_9},
   isbn        = {978-3-319-93109-8},
-  abbr        = {TCPP}, bibtex_show=1}
-
+  abbr        = {TCPP},
+  url         = {https://arxiv.org/abs/1705.02899},
+  arxiv       = {1705.02899},
+  pdf         = {https://arxiv.org/pdf/1705.02899},
+  code        = {https://github.com/lucoodevcourse},
+  abstract    = {In this chapter, we explore various parallel and distributed computing topics from a user-centric software engineering perspective. Specifically, in the context of mobile application development, we study the basic building blocks of interactive applications in the form of events, timers, and asynchronous activities, along with related software modeling, architecture, and design topics.},
+  bibtex_show=1
+ }
 
 @incollection{CloudBookRestFS,
   author = {Kaylor, Joseph P. and Läufer, Konstantin and Thiruvathukal, George K.},
@@ -31,6 +37,8 @@
       primaryClass={cs.SE},
       url={https://arxiv.org/abs/2410.09241}, 
       arxiv={2410.09241},
+      pdf={https://arxiv.org/pdf/2407.09241},
+      abstract={Energy-efficient software helps improve mobile device experiences and reduce the carbon footprint of data centers. However, energy goals are often de-prioritized in order to meet other requirements. We take inspiration from recent work exploring the use of large language models (LLMs) for different software engineering activities. We propose a novel application of LLMs: as code optimizers for energy efficiency. We describe and evaluate a prototype, finding that over 6 small programs our system can improve energy efficiency in 3 of them, up to 2x better than compiler optimizations alone. From our experience, we identify some of the challenges of energy-efficient LLM code optimization and propose a research agenda.},
       bibtex_show=1,
 }
 
@@ -45,8 +53,10 @@
       archivePrefix={arXiv},
       primaryClass={cs.SE},
       url={https://arxiv.org/abs/2407.21152},
+      pdf={https://arxiv.org/pdf/2407.21152},
       website = {https://lucformalmethodscourse.github.io},
       code = {https://colab.research.google.com/drive/1c3YccNdvV73wSWcz-3h6-NQFvJYIdn0V},
+      abstract = {Background: In this paper, we present our initial efforts to integrate formal methods, with a focus on model-checking specifications written in Temporal Logic of Actions (TLA+), into computer science education, targeting undergraduate juniors/seniors and graduate students. Formal methods can play a key role in ensuring correct behavior of safety-critical systems, yet remain underutilized in educational and industry contexts. Aims: We aim to (1) qualitatively assess the state of formal methods in computer science programs, (2) construct level-appropriate examples that could be included midway into one's undergraduate studies, (3) demonstrate how to address successive "failures" through progressively stringent safety and liveness requirements, and (4) establish an ongoing framework for assessing interest and relevance among students. Methods: After starting with a refresher on mathematical logic, students specify the rules of simple puzzles in TLA+ and use its included model checker (known as TLC) to find a solution. We gradually escalate to more complex, dynamic, event-driven systems, such as the control logic of a microwave oven, where students will study safety and liveness requirements. We subsequently discuss explicit concurrency, along with thread safety and deadlock avoidance, by modeling bounded counters and buffers. Results: Our initial findings suggest that through careful curricular design and choice of examples and tools, it is possible to inspire and cultivate a new generation of software engineers proficient in formal methods. Conclusions: Our initial efforts suggest that 84\% of our students had a positive experience in our formal methods course. Future plans include a longitudinal analysis within our own institution and proposals to partner with other institutions to explore the effectiveness of our open-source and open-access modules.},
       bibtex_show=1
 }
 
@@ -63,10 +73,9 @@
   url =          {https://ecommons.luc.edu/cs_facpubs/314/},
   website =      {https://unoapi.org},
   code =         {https://github.com/LoyolaChicagoCode/unoapi-dpcpp-examples},
+  abstract =     {Abstract—oneAPI is a major initiative by Intel aimed at making it easier to program heterogeneous architectures used in high-performance computing using a unified application programming interface (API). While raising the abstraction level via a unified API represents a promising step for the current generation of students and practitioners to embrace highperformance computing, we argue that a curriculum of welldeveloped software engineering methods and well-crafted exemplars will be necessary to ensure interest by this audience and those who teach them. We aim to bridge the gap by developing a curriculum—codenamed UnoAPI—that takes a more holistic approach by looking beyond language and framework to include the broader development ecosystem, similar to the experience found in popular HPC languages such as Python. We hope to make parallel programming a more attractive option by making it look more like general application development in modern languages being used by most students and educators today. Our curriculum emanates from the perspective of well-crafted exemplars from the foundations of computer systems—given that most HPC architectures of interest begin from the systems tradition—with an integrated treatment of essential principles of distributed systems, programming languages, and software engineering. We argue that a curriculum should cover the essence of these topics to attract students to HPC and enable them to confidently solve computational problems using oneAPI. By the time of this submission, we have shared our materials with a small group of undergraduate sophomores, and their responses have been encouraging in terms of self-reported comprehension and ability to reproduce the compilation and execution of exemplars on their personal systems. We plan a follow-up study with a larger cohort by incorporating some of our materials in our existing course on High-Performance Computing.},
   bibtex_show=1
 }
-
-
 
 @inproceedings{ASE_2022,
   abbr = {ASE},
@@ -94,8 +103,13 @@
   year = {2022},
   month = oct,
   address = {Oakland Center, MI, USA},
-  url = {http://ecommons.luc.edu/cs_facpubs/296/}, bibtex_show=1}
-
+  url = {http://ecommons.luc.edu/cs_facpubs/296/},
+  pdf = {https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1297&context=cs_facpubs},
+  code = {https://github.com/SoftwareSystemsLaboratory/prime},
+  video = {https://youtu.be/YigEHy3_JCo},
+  abstract = {Software metrics capture information about software development products and processes. These metrics support decision-making, e.g., in team management or dependency selection. However, existing metrics tools measure only a snapshot of a software project. Little attention has been given to enabling engineers to reason about metric trends over time—longitudinal metrics that give insight about process, not just product. In this work, we present PRIME (PRocess Internal MEtrics), a tool for computing and visualizing process metrics. The currently-supported metrics include productivity, issue density, issue spoilage, and bus factor. We illustrate the value of longitudinal data and conclude with a research agenda.},
+  bibtex_show=1
+}
 
 @inproceedings{Scala_2019,
  abbr = {Scala},
@@ -117,6 +131,7 @@
  url = {https://doi.org/10.1145/3337932.3338814},
  year = {2019},
  code = {https://github.com/klaeufer/issue10709-scala},
+ arxiv = {1808.09630},
  bibtex_show=1
  }
 
@@ -675,6 +690,7 @@ Martin Odersky},
       doi={10.1109/MC.2024.3462188},
       website = {https://lucformalmethodscourse.github.io},
       code = {https://colab.research.google.com/drive/1c3YccNdvV73wSWcz-3h6-NQFvJYIdn0V},
+      abstract = {Our hands-on course introduces model checking using Temporal Logic of Actions through practical examples like the control logic for a microwave oven. Due to highly positive initial feedback from our own students, we plan to broaden our reach by partnering with other institutions.},
       bibtex_show=1
 
 }
@@ -895,12 +911,13 @@ Martin Odersky},
   abbr = {eScience},
   abstract = {One of the key goals in high-performance and distributed software engineering is to leverage the specific capabilities of the target hardware to the extent possible. Today’s systems are typically heterogeneous, where one or more architectures may be present within a single system, such as conventional CPU cores combined with accelerators such as GPUs and FPGAs. Although parallel computing itself has reached a high level of maturity, as we move toward exascale and beyond computing, challenges similar to those that plagued the earliest days of parallel and distributed computing are beginning to resurface: Leveraging heterogeneity while balancing performance, software portability, and developer productivity (P3). This tutorial provides hands-on experience in developing high-performance and embedded software for heterogeneous architectures using Intel’s oneAPI reference implementation of the Khronos SYCL standard in conjunction with state-of-the-art software engineering methods. By raising the abstraction level via its unified application programming interface (API), oneAPI makes it easier to develop portable high-performance software for systems with embedded hardware accelerators, such as GPUs and FPGAs.},
   author={Läufer, Konstantin and Thiruvathukal, George K.},
-  title = 	 {UnoAPI: Modern techniques for engineering high-performance software (tutorial)},
+  title = 	 {{UnoAPI}: Modern Techniques for Engineering High-Performance Software (Tutorial)},
   booktitle = {IEEE eScience Conference, Limmasol, Cyprus},
   month = 	 oct,
   year = 	 2023,
   url =          {https://www.escience-conference.org/2023/tutorials/unoapi},
   website =      {https://unoapi.org},
+  code =         {https://github.com/LoyolaChicagoCode/unoapi-dpcpp-examples},
   bibtex_show =  1
 }
 
@@ -908,7 +925,7 @@ Martin Odersky},
 @article{osti_2000330,
 title = {New technologies as decision aids for the advancement of ecological risk assessment},
 author = {Chele, Federico Sinche and Jimenez‐Pazmino, Priscilla and Läufer, Konstantin},
-abstractNote = {Moore's law states that the number of transistors that can be placed on an integrated circuit doubles every two years (Moore, 1975). This has led to a steady increase in the processing power of computers over time, and technology is now enhancing and advancing software and scientific applications, which has enabled computationally intensive methods such as machine learning, data science, modeling, and simulation. The advancement of computers and data-driven algorithms is profoundly impacting people's lives. It is changing the way we work, the way we learn, and the way we interact with the world around us. Here, this editorial will discuss how scientists can benefit from the latest technology advancements and related tools by incorporating them into the ecological risk assessment (ERA) to study ecosystems as a way to create refined assessments and accelerate the turnaround times.},
+abstract = {Moore's law states that the number of transistors that can be placed on an integrated circuit doubles every two years (Moore, 1975). This has led to a steady increase in the processing power of computers over time, and technology is now enhancing and advancing software and scientific applications, which has enabled computationally intensive methods such as machine learning, data science, modeling, and simulation. The advancement of computers and data-driven algorithms is profoundly impacting people's lives. It is changing the way we work, the way we learn, and the way we interact with the world around us. Here, this editorial will discuss how scientists can benefit from the latest technology advancements and related tools by incorporating them into the ecological risk assessment (ERA) to study ecosystems as a way to create refined assessments and accelerate the turnaround times.},
 doi = {10.1002/ieam.4815},
 url = {https://www.osti.gov/biblio/2000330}, journal = {Integrated Environmental Assessment and Management},
 issn = {1551-3777},
@@ -935,7 +952,17 @@ month = {8}, bibtex_show=1}
  booktitle = {Computer Science Research Symposium},
  url = {https://ecommons.luc.edu/csrs/ay2021-2022/techreport/1/},
  title = {{DriveAware}: Generating Actionable Data through Vehicle-Based Citizen Science (Poster)},
- year = {2022}, bibtex_show=1}
+ year = {2022},
+ pdf = {https://docs.google.com/document/d/16Rld_S8ud_upjVzr99Os8XjRAnadYQysvDDrWUOsHYk},
+ abstract = {As we’re driving around Chicago going about our weekly business, we can’t help but notice telltale signs of social problems in our neighborhoods, such as homelessness, drug use, street prostitution, and suspected human trafficking. Some neighborhoods are frozen in time, often with little evidence of new development and access to opportunities that are clustered around the north side of Chicago. It may not be comfortable for us to intervene directly or scientifically sound to draw conclusions based on our isolated observations. Nevertheless, we may have an opportunity to contribute as citizen scientists by recording our observations and sharing them with better-equipped stakeholders.
+
+The interdisciplinary DriveAware project aims to use mobile computing technology to make it safe and convenient for citizen scientists in their vehicles or on foot to augment existing observations, e.g. Google Street View, such as geotagged annotated images, to various stakeholders, such as social scientists, law enforcement, social service providers, and ordinary fellow citizens. The collected data can be used in various ways, including offline data analysis and real-time maps and dashboards, as well as concrete action, such as social scientists going on location to interview the affected individuals, law enforcement investigating and prosecuting potential incidents, and social service providers intervening directly, e.g., by picking up homeless persons during a cold spell and taking them to shelters.
+
+In addition to the interdisciplinary stakeholders’ existing research questions, this project gives rise to various computer science research questions, such as system requirements and architecture, system implementation, integration with existing databases in particular fields, user experience studies to determine the likelihood of reporting observations through in-car voice-based and/or reduced distraction touch interfaces (Android Auto/Apple CarPlay) versus conventional mobile apps.
+
+To support our research questions, we have developed a proof of concept of a mobile application for reporting observations in various pertinent categories, which get stored in a cloud-hosted Firebase (NoSQL) instance and can be accessed through a Python Jupyter notebook and analyzed/visualized in multidimensional ways.  Future plans include integration with commercial automotive frameworks, such as  Android Auto (and eventually Apple CarPlay) and automatic image collection from dashcams connected to the mobile phone via Bluetooth. The diagram below illustrates the high-level system architecture.},
+ bibtex_show=1
+}
 
 
 @inproceedings{URES-Posters-91,
@@ -959,7 +986,10 @@ month = {8}, bibtex_show=1}
   year = 2021,
   isbn = "9781098106478",
   note = "Foreword by Konstantin Läufer",
-  url = {https://learning.oreilly.com/library/view/learning-test-driven-development/9781098106461/foreword01.html}, bibtex_show=1}
+  url = {https://learning.oreilly.com/library/view/learning-test-driven-development/9781098106461/foreword01.html},
+  html = {https://learning.oreilly.com/library/view/learning-test-driven-development/9781098106461/foreword01.html},  
+  bibtex_show=1
+}
 
 @inproceedings{GRS-Posters-4,
  abbr = {LUC},
@@ -979,9 +1009,10 @@ month = {8}, bibtex_show=1}
  booktitle = {Scala Days},
  title = {Experiences with Scala Across the College-Level Curriculum (Invited Talk)},
  year = {2017},
- month = may, bibtex_show=1}
-
-
+ month = may,
+ slides = {https://docs.google.com/presentation/d/1bRLxAcNxrtbOW8T0SUNs_PdyCfKL9ZGhBIChXWgv29Q},
+ bibtex_show=1
+ }
 
 @inproceedings{GCASR_2015,
  author = {Gathright, Brian and Läufer, Konstantin and Parsa, Aziz and Thiruvathukal, George K.},
@@ -1045,9 +1076,10 @@ month = {8}, bibtex_show=1}
  title = {{Using Scala strategically across the undergraduate curriculum (Workshop)}},
  year = {2013},
  url = {https://ecommons.luc.edu/cs_facpubs/69/},
- pdf = {https://ecommons.luc.edu/cs_facpubs/69/}, bibtex_show=1}
-
-
+ pdf = {https://ecommons.luc.edu/cs_facpubs/69/},
+ html = {http://scalaworkshop.cs.luc.edu/html/},
+ bibtex_show=1
+ }
 
 @inproceedings{EduPar2012,
   abbr = {TCPP},
@@ -1151,13 +1183,16 @@ month = {8}, bibtex_show=1}
   volume    = {abs/1804.02053},
   year      = {2018},
   url       = {http://arxiv.org/abs/1804.02053},
+  pdf       = {http://arxiv.org/pdf/1804.02053},
   eprinttype = {arXiv},
   eprint    = {1804.02053},
   arxiv     = {1804.02053},
   timestamp = {Mon, 13 Aug 2018 16:47:28 +0200},
   biburl    = {https://dblp.org/rec/journals/corr/abs-1804-02053.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}, bibtex_show=1}
-
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  abstract = {There is an emerging consensus in the scientific software community that progress in scientific research is dependent on the "quality and accessibility of software at all levels" (this http URL). This progress depends on embracing the best traditional---and emergent---practices in software engineering, especially agile practices that intersect with the more formal tradition of software engineering. As a first step in our larger exploratory project to study in-process quality metrics for software development projects in Computational Science and Engineering (CSE), we have developed the Metrics Dashboard, a platform for producing and observing metrics by mining open-source software repositories on GitHub. Unlike GitHub and similar systems that provide individual performance metrics (e.g. commits), the Metrics Dashboard focuses on metrics indicative of team progress and project health. The Metrics Dashboard allows the user to submit the URL of a hosted repository for batch analysis, whose results are then cached. Upon completion, the user can interactively study various metrics over time (at varying granularity), numerically and visually. The initial version of the system is up and running as a public cloud service (SaaS) and supports project size (KLOC), defect density, defect spoilage, and productivity. While our system is by no means the first to support software metrics, we believe it may be one of the first community-focused extensible resources that can be used by any hosted project.},
+  bibtex_show=1
+ }
 
 @TechReport{2003_AOSD,
   author = "Läufer, Konstantin and Thiruvathukal, George K. and Elrad, Tzilla",
@@ -1189,7 +1224,10 @@ month = {8}, bibtex_show=1}
   arxiv = {1905.13674},
   eprinttype = {arXiv},
   url = {http://arxiv.org/abs/1905.13674},
-  volume = {abs/1905.13674}, bibtex_show=1}
+  pdf = {http://arxiv.org/pdf/1905.13674},
+  abstract = {Design patterns are distilled from many real systems to catalog common programming practice. However, some object-oriented design patterns are distorted or overly complicated because of the lack of supporting programming language constructs or mechanisms. For this paper, we have analyzed several published design patterns looking for idiomatic ways of working around constraints of the implementation language. From this analysis, we lay a groundwork of general-purpose language constructs and mechanisms that, if provided by a statically typed, object-oriented language, would better support the implementation of design patterns and, transitively, benefit the construction of many real systems. In particular, our catalog of language constructs includes subtyping separate from inheritance, lexically scoped closure objects independent of classes, and multimethod dispatch. The proposed constructs and mechanisms are not radically new, but rather are adopted from a variety of languages and programming language research and combined in a new, orthogonal manner. We argue that by describing design patterns in terms of the proposed constructs and mechanisms, pattern descriptions become simpler and, therefore, accessible to a larger number of language communities. Constructs and mechanisms lacking in a particular language can be implemented using paradigmatic idioms.},
+  bibtex_show=1
+ }
 
 
 @TechReport{Laufer_Transformational_1991,
