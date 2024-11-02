@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-   Welcome! ¡Bienvenidos/as! Willkumme zäme! Benvenuti/e!
+   Welcome! Willkumme zäme! ¡Bienvenidos/as! Benvenuti/e!
    <br/>
    How to pronounce (IPA): ˈkɔnstantiːn ˈlɔʏfɐ
    <br/>
