@@ -6,7 +6,8 @@
   publisher   = {Springer},
   year        = {2018},
   doi         = {https://doi.org/10.1007/978-3-319-93109-8_9},
-  isbn        = {978-3-319-93109-8}
+  isbn        = {978-3-319-93109-8},
+  abbr        = {TCPP},
 }
 @incollection{CloudBookRestFS,
   author = {Kaylor, Joseph P. and Läufer, Konstantin and Thiruvathukal, George K.},
@@ -16,7 +17,8 @@
   publisher   = {CRC Press},
   year        = {2011},
   isbn = {978-1439856413},
-  url = {https://ecommons.luc.edu/cs_facpubs/45/}
+  url = {https://ecommons.luc.edu/cs_facpubs/45/},
+  abbr = {CRC},
 }
 @misc{peng2024largelanguagemodelsenergyefficient,
       title={Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions}, 
@@ -26,8 +28,11 @@
       archivePrefix={arXiv},
       primaryClass={cs.SE},
       url={https://arxiv.org/abs/2410.09241}, 
+      arxiv={2410.09241},
+      bibtex_show=1,
 }
 @misc{laufer2024fie,
+      abbr = {FIE},
       title={WIP: An Engaging Undergraduate Intro to Model Checking in Software Engineering Using TLA+}, 
       author={Konstantin Läufer and Gunda Mertin and George K. Thiruvathukal},
       year={2024},
@@ -37,6 +42,7 @@
       url={https://arxiv.org/abs/2407.21152}, 
 }
 @InProceedings{EduHPC22,
+  abbr = {TCPP},
   author = {Läufer, Konstantin and Thiruvathukal, George K.},
   title = 	 {UnoAPI: Balancing Performance, Portability, and Productivity (P3) in HPC Education},
   booktitle = {Proc. EduHPC-22: Workshop on Education for High-Performance Computing},
@@ -48,6 +54,7 @@
 }
 
 @inproceedings{ASE_2022,
+  abbr = {ASE},
   address = {New York, NY, USA},
   author = {
   Nicholas Synovic 
@@ -75,7 +82,7 @@
   url = {http://ecommons.luc.edu/cs_facpubs/296/}
 }
 @inproceedings{Scala_2019,
- abbr = {ACM},
+ abbr = {Scala},
  abstract = {In testing stateful abstractions, it is often necessary to record interactions, such as method invocations, and express assertions over these interactions. Following the Test Spy design pattern, we can reify such interactions programmatically through additional mutable state. Alternatively, a mocking framework, such as Mockito, can automatically generate test spies that allow us to record the interactions and express our expectations in a declarative domain-specific language. According to our study of the test code for Scala's Iterator trait, the latter approach can lead to a significant reduction of test code complexity in terms of metrics such as code size (in some cases over 70\% smaller), cyclomatic complexity, and amount of additional mutable state required. In this tools paper, we argue that the resulting test code is not only more maintainable, readable, and intentional, but also a better stylistic match for the Scala community than manually implemented, explicitly stateful test spies.},
  address = {New York, NY, USA},
  author = {Läufer, Konstantin and O'Sullivan, John and Thiruvathukal, George K.},
@@ -96,7 +103,7 @@
 }
 
 @inproceedings{wl_honig_framework_2015,
- abbr = {IEEE},
+ abbr = {SIES},
  abstract = {Academic courses focused on individual microcomputers or client/server applications are no longer sufficient for students to develop knowledge in embedded systems. Current and near-term industrial systems employ multiple interacting components and new network and security approaches; hence, academic preparation requires teaching students to develop realistic projects comparable to these real-world products. However, the complexity, breadth, and technical variations of these real-world products are difficult to reproduce in the classroom. This paper outlines preliminary work on a framework architecture suitable for academic teaching of modern embedded systems including the Internet of Things. It defines four layers, two of which are at the edges of the network, and not adequately covered in academia. For each layer of the architecture, specific technology and suitable devices are identified. Desired academic outcomes for courses using projects based on the architecture are identified. Feedback and comparison is sought on how effective student course and research activities based on the framework will be to real-world embedded systems developers.},
  author = {Honig, William and Läufer, Konstantin and Thiruvathukal, George K.},
  booktitle = {10th IEEE International Symposium on Industrial Embedded Systems (SIES)},
@@ -109,6 +116,7 @@
 }
 
 @inproceedings{WSSSPE_2015,
+ abbr = {WSSSPE},
  author = {Thiruvathukal, George K. and Shilpika and Hayward, Nicholas and Aguiar, Saulo and Läufer, Konstantin},
  booktitle = {Proc. Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE)},
  title = {Towards Sustainable Digital Humanities Software},
@@ -117,8 +125,17 @@
  pdf = {https://ecommons.luc.edu/cs_facpubs/257/},
 }
 
+@inproceedings{EduPar2013,
+  abbr = {TCPP},
+  title     = {Spring-11: Introducing PDC topics into CS1/2 and a Mobile- and Cloud-Based Intermediate Software Design Course},
+  author    = {Läufer, Konstantin and Sekharan, Chandra and Thiruvathukal, George K. and Kaylor, Joseph P.},
+  booktitle = {3rd NSF/IEEE-CS TCPP Workshop on Parallel and Distributed Computing Education ({EduPar}), Boston, Massachusetts},
+  year      = {2013},
+  month     = may,
+  url = {https://tcpp.cs.gsu.edu/curriculum/?q=EduPar-13_Proceedings}
+}
 @inproceedings{kaylor_simplifying_2012,
- abbr = {IEEE},
+ abbr = {EIT},
  author = {Kaylor, Joseph P. and Läufer and Thiruvathukal, George K.},
  booktitle = {International {{Conference}} on {{Electro Information Technology}} 2012},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
@@ -130,7 +147,7 @@
 }
 
 @inproceedings{kaylor_restfs_2011,
- abbr = {ACM},
+ abbr = {WWW},
  abstract = {We have designed and implemented RestFS, a software framework that provides a uniform, configurable connector layer for mapping remote web-based resources to local filesystem-based resources, recognizing the similarity between these two types of resources. Such mappings enable programmatic access to a resource, as well as composition of two or more resources, through the local operating system's standard filesystem application programming interface (API), scriptable file-based command-line utilities, and inter-process communication (IPC) mechanisms. The framework supports automatic and manual authentication. We include several examples intended to show the utility and practicality of our framework.},
  address = {ACM, 2 Penn Plaza, Suite 701, New York, NY 10121-0701, USA},
  author = {Kaylor, Joseph P. and Läufer, Konstantin and Thiruvathukal, George K.},
@@ -155,7 +172,8 @@
   timestamp = {Wed, 28 Sep 2011 18:26:31 +0200},
   biburl    = {https://dblp.org/rec/conf/icsoft/2011-1.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-  url = {http://ecommons.luc.edu/cs_facpubs/36/}
+  url = {http://ecommons.luc.edu/cs_facpubs/36/},
+  abbr = {ICSOFT},
 }@inproceedings{DBLP:conf/icsoft/2011-2,
   title     = {{REST} on Routers? Preliminary Lessons for Language Designers, Framework Architects, and App Developers},
   author    = {Kaylor, Joseph P. and Läufer, Konstantin and Thiruvathukal, George K.},
@@ -168,17 +186,19 @@
   timestamp = {Wed, 28 Sep 2011 18:26:31 +0200},
   biburl    = {https://dblp.org/rec/conf/icsoft/2011-1.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-  url = {https://ecommons.luc.edu/cs_facpubs/35/}
+  url = {https://ecommons.luc.edu/cs_facpubs/35/},
+  abbr = {ICSOFT},
 }@inproceedings{EduPar2011,
   title     = {PDC Modules for Every Level: A Comprehensive Model for Incorporating PDC Topics into the Existing Undergraduate Curriculum},
   author    = {Läufer, Konstantin and Sekharan, Chandra and Thiruvathukal, George K.},
   booktitle = {1st NSF/IEEE-CS TCPP Workshop on Parallel and Distributed Computing Education ({EduPar}), Anchorage, Alaska},
   year      = {2011},
   month     = may,
-  url = {https://tcpp.cs.gsu.edu/curriculum/?q=node/16950}
+  url = {https://tcpp.cs.gsu.edu/curriculum/?q=node/16950},
+  abbr = {TCPP}
 }
 @inproceedings{kaylor_online_2010,
- abbr = {IEEE},
+ abbr = {EIT},
  abstract = {We present a novel form of intra-volume directory layering with hierarchical, inheritance-like namespace unification. While each layer of an OLFS volume constitutes a subvolume that can be mounted separately in a fan-in configuration, the entire hierarchy is always accessible (online) and fully navigable through any mounted layer. OLFS uses a relational database to store its layering metadata and either a relational database or any (virtual) host file system as its backing store, along with metadata and block caching for improved performance. Because OLFS runs as a virtual file system in user-space, its capabilities are available to all existing software without modification or special privileges. We have developed a reference implementation of OLFS for FUSE based on MySQL and XFS, and conducted performance benchmarking against XFS by itself. We explore several applications of OLFS, such as enhanced server synchronization, transactional file operations, and versioning.},
  author = {Kaylor, Joseph P. and Läufer, Konstantin and Thiruvathukal, George K.},
  booktitle = {IEEE International Conference on Electro/Information Technology (EIT 2010)},
@@ -208,11 +228,11 @@ Angeles, CA, USA, 6-10 July 2009},
  timestamp = {Thu, 14 Oct 2021 01:00:00 +0200},
  title = {GroupSpeak: High-level Language Extension for Workflow Capability},
  url = {https://doi.org/10.1109/ICWS.2009.135},
- year = {2009}
+ year = {2009},
+ abbr = {ICWS},
 }
 
 @inproceedings{matt_bone_taming_2008,
- abbr = {IEEE},
  abstract = {Processing markup in object-oriented languages often requires the programmer to focus on the objects generating the markup rather than the more pertinent domain objects. The BetterXML framework aims to improve this situation by allowing the programmer to develop a domain-specific object model as usual and later bind this model to preexisting or newly generated markup. To this end, the framework provides two types of object trees, XElement and NaturalXML, for representing XML documents. XElement goes beyond DOM-like automatic parsing of XML by supporting the custom mapping of elements to domain objects; NaturalXML allows the mapping of existing domain objects to XML elements using class metadata. Both types of object trees can be inflated and deflated by means of a common intermediate representation in the form of an event stream. Finally, the framework includes the XML Intermediate Representation (XIR), a lossless record-oriented representation of XML documents for efficient streaming and other types of data exchange.},
  author = {Bone, Matt and Nabicht, Peter F. and Läufer and Thiruvathukal, George K.},
  booktitle = {IEEE International Conference on Electro/Information Technology (EIT 2008)},
@@ -223,6 +243,7 @@ Angeles, CA, USA, 6-10 July 2009},
  year = {2008},
  url={https://ecommons.luc.edu/cs_facpubs/39},
  pdf={https://ecommons.luc.edu/cs_facpubs/39},
+ abbr = {EIT},
 }
 
 @inproceedings{DBLP:conf/seke/HerrLSTW08,
@@ -240,7 +261,8 @@ Angeles, CA, USA, 6-10 July 2009},
   year      = {2008},
   timestamp = {Thu, 12 Mar 2020 11:30:50 +0100},
   biburl    = {https://dblp.org/rec/conf/seke/HerrLSTW08.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  abbr      = {SEKE},
 }
 @INPROCEEDINGS{IPDPS_2007,
   author={Mehta, Neeraj and Kanitkar, Yogesh and Laufer, Konstantin and Thiruvathukal, George K.},
@@ -250,7 +272,9 @@ Angeles, CA, USA, 6-10 July 2009},
   volume={},
   number={},
   pages={1-8},
-  doi={10.1109/IPDPS.2007.370423}}
+  doi={10.1109/IPDPS.2007.370423},
+  abbr = {IPDPS},
+}
 @inproceedings{DBLP:conf/ic/ZhangLG03,
  author = {Jia Zhang and
 Konstantin L{\"{a}}ufer and
@@ -265,10 +289,12 @@ Youngsong Mun},
  publisher = {{CSREA} Press},
  timestamp = {Wed, 23 Oct 2019 01:00:00 +0200},
  title = {Mockup Supporting Web Requirements Engineering},
- year = {2003}
+ year = {2003},
+ abbr = {IC},
 }
 
 @inproceedings{DBLP:conf/sigsoft/GodefroidJJL00,
+ abbr = {FSE},
  author = {Patrice Godefroid and
 Lalita Jategaonkar Jagadeesan and
 Radha Jagadeesan and
@@ -307,7 +333,8 @@ International Conference, Singapore, September 18-21, 2000, Proceedings},
  title = {A Constraint-Based Framework for Prototyping Distributed Virtual Applications},
  url = {https://doi.org/10.1007/3-540-45349-0_16},
  volume = {1894},
- year = {2000}
+ year = {2000},
+ abbr = {CP},
 }
 
 @InProceedings{Triveni_OOPSLAEDU_1998,
@@ -318,7 +345,8 @@ International Conference, Singapore, September 18-21, 2000, Proceedings},
     Symposium},
   year =         1998,
   address =      {Vancouver, Canada},
-  month =        oct
+  month =        oct,
+  abbr  = {OOPSLA},
 }
 @inproceedings{DBLP:conf/iccl/ColbyJJLP98,
  author = {Christopher Colby and
@@ -337,7 +365,8 @@ Carlos Puchol},
  title = {Design and Implementation of Triveni: {A} Process-Algebraic {API}
 for Threads + Events},
  url = {https://doi.org/10.1109/ICCL.1998.674157},
- year = {1998}
+ year = {1998},
+ abbr = {ICCL},
 }
 
 @inproceedings{DBLP:conf/coots/ColbyJJLP98,
@@ -357,7 +386,8 @@ Carlos Puchol},
  title = {Objects and Concurrency in Triveni: {A} Telecommunication Case Study
 in Java},
  url = {http://www.usenix.org/publications/library/proceedings/coots98/colby.html},
- year = {1998}
+ year = {1998},
+ abbr = {COOTS},
 }
 
 @inproceedings{DBLP:conf/popl/OderskyL96,
@@ -376,7 +406,8 @@ Guy L. Steele Jr.},
  timestamp = {Tue, 06 Nov 2018 00:00:00 +0100},
  title = {Putting Type Annotations to Work},
  url = {https://doi.org/10.1145/237721.237729},
- year = {1996}
+ year = {1996},
+ abbr = {POPL},
 }
 
 @inproceedings{DBLP:conf/coots/Laufer95,
@@ -390,7 +421,8 @@ COOTS'95, Monterey, California, USA, June 26-29, 1995},
  timestamp = {Tue, 02 Feb 2021 00:00:00 +0100},
  title = {A Framework for Higher-Order Functions in {C++}},
  url = {http://www.usenix.org/publications/library/proceedings/coots95/laufer.html},
- year = {1995}
+ year = {1995},
+ abbr = {COOTS},
 }
 
 @InProceedings{Laufer_PANEL_1994,
@@ -401,6 +433,7 @@ COOTS'95, Monterey, California, USA, June 26-29, 1995},
   organization = "ITESM-CEM",
   address =      "Mexico",
   month =        sep,
+  abbr =         {CLEI},
 }
 @InProceedings{LauferOdersky_Reflection_1993,
   AUTHOR       = {L{\"{a}}ufer, Konstantin and Odersky, Martin},
@@ -408,7 +441,8 @@ COOTS'95, Monterey, California, USA, June 26-29, 1995},
   MONTH        = oct,
   ORGANIZATION = {ACM},
   TITLE        = {Self-Interpretation and Reflection in a Statically Typed Language},
-  YEAR         = {1993}
+  YEAR         = {1993},
+  abbr         = {OOPSLA},
 }
 
 @InProceedings{LauferOdersky_ML_1992,
@@ -416,7 +450,8 @@ COOTS'95, Monterey, California, USA, June 26-29, 1995},
         title     = {An Extension of {ML} with First-Class Abstract Types},
         booktitle = {Proc. ACM SIGPLAN Workshop on ML and its Applications},
         year      = {1992},
-        month     = jun
+        month     = jun,
+	abbr      = {ML},
 }
 @InProceedings{HengleinLaufer_PANEL_1991,
   author       = {Henglein, Fritz and L{\"{a}}ufer, Konstantin},
@@ -424,7 +459,8 @@ COOTS'95, Monterey, California, USA, June 26-29, 1995},
   address      = {Universidad Simón Bolívar, Caracas, Venezuela},
   pages        = {333--352},
   title        = {Programming with Structures, Functions, and Objects},
-  year         = {1991}
+  year         = {1991},
+  abbr         = {CLEI},
 }
 @inproceedings{DBLP:conf/phoenix/LauferO91,
  author = {Konstantin L{\"{a}}ufer and
@@ -443,11 +479,12 @@ Roland Dietrich},
  timestamp = {Fri, 21 Jun 2019 13:08:59 +0200},
  title = {Type Classes are Signatures of Abstract Types},
  url = {https://doi.org/10.1007/978-1-4471-3794-8_10},
- year = {1991}
+ year = {1991},
+ abbr = {PHOENIX},
 }
 
 @article{doi:10.4137/EBO.S32757,
- abbr = {Journal},
+ abbr = {EVB},
 author = {Reisman, Steven and Hatzopoulos, Thomas and Läufer, Konstantin and Thiruvathukal, George K. and Putonti, Catherine},
 title ={A Polyglot Approach to Bioinformatics Data Integration: A Phylogenetic Analysis of HIV-1},
 journal = {Evolutionary Bioinformatics},
@@ -456,7 +493,6 @@ pages = {EBO.S32757},
 year = {2016},
 doi = {10.4137/EBO.S32757},
 note ={PMID: 26819543},
-
 URL = {https://doi.org/10.4137/EBO.S32757},
 html = {https://doi.org/10.4137/EBO.S32757},
 pdf = {https://doi.org/10.4137/EBO.S32757},
@@ -467,6 +503,7 @@ abstract = {As sequencing technologies continue to drop in price and increase in
 
 
 @article{DBLP:journals/sigsoft/JagadeesanLG00,
+ abbr = {SIGSOFT},
  author = {Radha Jagadeesan and
 Konstantin L{\"{a}}ufer and
 Vineet Gupta},
@@ -484,6 +521,7 @@ Vineet Gupta},
 }
 
 @article{DBLP:journals/ijst/BallCDJJLMR00,
+ abbr = {IJST},
  author = {Thomas Ball and
 Christopher Colby and
 Peter J. Danielsen and
@@ -506,6 +544,7 @@ Kenneth Rehor},
 }
 
 @article{DBLP:journals/cj/LauferBR00,
+ abbr = {CJ},
  author = {Konstantin L{\"{a}}ufer and
 Gerald Baumgartner and
 Vincent F. Russo},
@@ -523,6 +562,7 @@ Vincent F. Russo},
 }
 
 @article{DBLP:journals/entcs/ColbyJJLP98,
+ abbr = {ENTCS},
  author = {Christopher Colby and
 Lalita Jategaonkar and
 Radha Jagadeesan and
@@ -542,6 +582,7 @@ Carlos Puchol},
 }
 
 @article{DBLP:journals/jfp/Laufer96,
+ abbr = {JFP},
  author = {Konstantin L{\"{a}}ufer},
  bibsource = {dblp computer science bibliography, https://dblp.org},
  biburl = {https://dblp.org/rec/journals/jfp/Laufer96.bib},
@@ -557,6 +598,7 @@ Carlos Puchol},
 }
 
 @article{DBLP:journals/toplas/LauferO94,
+ abbr = {TOPLAS},
  author = {Konstantin L{\"{a}}ufer and
 Martin Odersky},
  bibsource = {dblp computer science bibliography, https://dblp.org},
@@ -573,18 +615,17 @@ Martin Odersky},
  year = {1994}
 }
 @article{laufer2024computer,
-      abbr={Magazine},
+      abbr={Computer},
       journal={Computer}, 
       title={Engaging More Students in Formal Methods Education: A Practical Approach Using Temporal Logic of Actions},
       author={Konstantin Läufer and Gunda Mertin and George K. Thiruvathukal},
       year={2024},
-      month=dec,
       volume={57},
       number={12},
       doi={10.1109/MC.2024.3462188},
 }
 @article{laufer_moving_2011,
- abbr = {Magazine},
+ abbr = {CiSE},
  author = {Läufer, Konstantin and Thiruvathukal, George K. and Dennis, David B.},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  issn = {1521-9615},
@@ -600,7 +641,7 @@ Martin Odersky},
 }
 
 @article{george_k_thiruvathukal_virtualization_2010,
- abbr = {Magazine},
+ abbr = {CiSE},
  author = {Thiruvathukal, George K. and Läufer, Konstantin and Hinsen, Konrad and Kaylor, Joseph P.},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  issn = {1521-9615},
@@ -615,7 +656,7 @@ Martin Odersky},
 }
 
 @article{laufer_scientific_2009,
- abbr = {Magazine},
+ abbr = {CiSE},
  author = {Läufer, Konstantin and Thiruvathukal, George K.},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  issn = {1521-9615},
@@ -631,7 +672,7 @@ Martin Odersky},
 }
 
 @article{konrad_hinsen_essential_2009,
- abbr = {Magazine},
+ abbr = {CiSE},
  author = {Hinsen, Konrad and Läufer, Konstantin and Thiruvathukal, George K.},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  issn = {1521-9615},
@@ -647,7 +688,7 @@ Martin Odersky},
 }
 
 @article{k_laufer_putting_2009,
- abbr = {Magazine},
+ abbr = {CiSE},
  author = {Läufer, Konstantin and Thiruvathukal, George K. and Nishimura, Ryohei and Martínez-Eiroa, Carlos Ramírez},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  issn = {1521-9615},
@@ -662,7 +703,7 @@ Martin Odersky},
 }
 
 @article{george_k_thiruvathukal_what_2008,
- abbr = {Magazine},
+ abbr = {CiSE},
  author = {Thiruvathukal, George K. and Läufer, Konstantin},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  issn = {1521-9615},
@@ -687,11 +728,11 @@ Martin Odersky},
  title = {A Stroll through Domain-Driven Development with Naked Objects},
  url = {https://doi.org/10.1109/MCSE.2008.67},
  volume = {10},
- year = {2008}
+ year = {2008},
+ abbr = {CiSE}
 }
-
 @article{konstantin_laufer_hike_2007,
- abbr = {Magazine},
+ abbr = {CiSE},
  abstract = {By incorporating automated component, integration, and acceptance testing into the various tiers of a lightweight lava 2 Enterprise Edition (J2EE) Web application architecture, developers can shorten the development cycle and increase the quality of their work},
  author = {Läufer, Konstantin and Thiruvathukal, George K. and González, Benjamin},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
@@ -706,7 +747,7 @@ Martin Odersky},
 }
 
 @article{george_k_thiruvathukal_unit_2006,
- abbr = {Magazine},
+ abbr = {CiSE},
  author = {Thiruvathukal, George K. and Läufer, Konstantin and González, Benjamin},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  issn = {1521-9615},
@@ -733,7 +774,8 @@ Martin Odersky},
 {II}},
  url = {https://doi.org/10.1109/MCSE.2006.20},
  volume = {8},
- year = {2006}
+ year = {2006},
+ abbr = {CiSE},
 }
 
 @article{DBLP:journals/cse/Laufer05,
@@ -748,11 +790,12 @@ Martin Odersky},
  title = {A hike through post-EJB {J2EE} Web application architecture},
  url = {https://doi.org/10.1109/MCSE.2005.85},
  volume = {7},
- year = {2005}
+ year = {2005},
+ abbr = {CiSE},
 }
 
 @article{george_k_thiruvathukal_plone_2004,
- abbr = {Magazine},
+ abbr = {CiSE},
  author = {Thiruvathukal, George K. and Läufer, Konstantin},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  issn = {1521-9615},
@@ -767,7 +810,7 @@ Martin Odersky},
 }
 
 @article{george_k_thiruvathukal_natural_2004,
- abbr = {Magazine},
+ abbr = {CiSE},
  author = {Thiruvathukal, George K. and Läufer, Konstantin},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  issn = {1521-9615},
@@ -778,9 +821,7 @@ Martin Odersky},
  year = {2004},
  url = {https://ecommons.luc.edu/cs_facpubs/9/},
  pdf = {https://ecommons.luc.edu/cs_facpubs/9/},
-
 }
-
 
 @article{osti_2000330,
 title = {New technologies as decision aids for the advancement of ecological risk assessment},
@@ -805,8 +846,16 @@ place = {United States},
 year = {2023},
 month = {8}
 }
+@inproceedings{DriveAware2022,
+ abbr = {LUC},
+ author = {de Landaluce, Álvaro and Sinche Chele, Federico and Stalans, Loretta and Thiruvathukal, George K. and Konstantin Läufer},
+ booktitle = {Computer Science Research Symposium},
+ url = {https://ecommons.luc.edu/csrs/ay2021-2022/techreport/1/},
+ title = {{DriveAware}: Generating Actionable Data through Vehicle-Based Citizen Science (Poster)},
+ year = {2022}
+}
 @inproceedings{URES-Posters-91,
- abbr = {Loyola},
+ abbr = {LUC},
  abstract = {The Metrics Pipeline (Codename) focuses on metrics indicative of team progress and project health instead of privileging individual metrics, e.g. number of commits, etc. The Metrics Dashboard allows the user to submit the URL of a hosted repository for batch analysis, whose results are then cached. Upon completion, the user can interactively study various metrics over time (at varying granularity), numerically, and visually. The initial version of the system is up and running as a public cloud service (SaaS) and supports project size (KLOC), defect density, defect spoilage, and productivity. While our system is by no means the first to support software metrics, we believe it may be one of the first community-focused extensible resources that can be used by any hosted project.},
  author = {Synovic, Nicholas and Amobi, Emmanuel and Greve, Erik and Von Hatten, Sophie and Pinderski, Austin and Rodriguez, Stephanie and Zugschwert, Martin and Davis, Jamie C. and Hayward, Nicholas and Läufer, Konstantin and Thiruvathukal, George K.},
  booktitle = {Undergraduate Research and Engagement Symposium},
@@ -827,7 +876,7 @@ month = {8}
   note = "Foreword by Konstantin Läufer",
   url = {https://learning.oreilly.com/library/view/learning-test-driven-development/9781098106461/foreword01.html}
 }@inproceedings{GRS-Posters-4,
- abbr = {Loyola},
+ abbr = {LUC},
  abstract = {Trust in open-source software is a cornerstone of scientific progress and a foundation of high-quality public services. Just as standards are integral when judging the efficacy of a novel pharmaceutical compound or determining the spread of a new disease, the software used to make those determinations should be useful, error-free, reliable, performant, and secure. A small bug in an application, library, or framework can lead to economic loss and even loss of life. We rely on software developers to be dynamic and responsive to user review and bug-reporting. Our team developed an open-source modular pipeline to perform empirical investigations of software quality. A key innovation of our approach is to look at projects “from a distance” similar to methods used in climate, e.g. satellite images being used to observe environmental impacts in air quality/rain forests. Instead of looking at language-specific source code features, our pipeline uses a language-agnostic high-level approach to track software quality by focusing on the development process itself, which yields great insight into the processes programmers use to write and maintain their software. Our distributed modular approach to analytics allows the pipeline to be easily extended to support additional metrics in future work. We store extracted data in an embedded SQLite database, which means that analysis can proceed without complex server setup, let alone hosting the software on dedicated servers. Our analytical modules are designed for efficiency, and future runs of our software only collect missing data, supporting the incremental analysis of known, important open-source projects.},
  author = {Miller, Allan and Thiruvathukal, George K. and Läufer, Konstantin and Amobi, Emmanuel and Higgins, Sean and Maliakal, Linette and Meister, Emily and Putter, Jean-Luc and Rose, Alex and Synovic, Nicholas and Von Hatten, Sophie and Warkentin, Jonathan and Zugschwert, Martin},
  booktitle = {Graduate Research Symposium},
@@ -854,7 +903,7 @@ month = {8}
  month = may
 }
 @inproceedings{mark_lewis_scala_2014,
- abbr = {Workshop},
+ abbr = {SIGCSE},
  abstract = {Scala is one of a new breed of hybrid languages with both object-oriented and functional aspects. It happens to be the most successful of these languages coming in at \#12 on the Red Monk language ranking and leading all languages in their 2nd tier. This workshop will introduce participants to the Scala programming language, how it can be used effectively in introductory CS courses, and the parallel tools that are available for it. We begin with simple examples in the REPL and scripting environment, then look at doing larger, object-oriented projects. We finish off with an exploration of composable futures and the Akka actor library. Participants are strongly recommended to bring a laptop.},
  address = {ACM, 2 Penn Plaza, Suite 701, New York, NY 10121-0701, USA},
  author = {Lewis, Mark and Läufer, Konstantin and Thiruvathukal, George K.},
@@ -868,7 +917,7 @@ month = {8}
 }
 
 @misc{gcasr_2013_tablets,
- abbr = {Workshop},
+ abbr = {GCASR},
  author = {Dias, Thomas Delgado and Yan, Xian and Läufer, Konstantin and Thiruvathukal, George K.},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  shorttitle = {{GCASR 13}},
@@ -881,7 +930,7 @@ month = {8}
  html = {https://ecommons.luc.edu/cs_facpubs/66/},
 }
 @inproceedings{gcasr_2013_environmental_data,
- abbr = {Workshop},
+ abbr = {GCASR},
  author = {Stasiuk, Paul and Läufer, Konstantin and Thiruvathukal, George K.},
  copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)},
  shorttitle = {GCASR 13},
@@ -894,7 +943,7 @@ month = {8}
  html = {https://ecommons.luc.edu/cs_facpubs/65/},
 }
 @inproceedings{mark_lewis_using_2013,
- abbr = {Workshop},
+ abbr = {SIGCSE},
  abstract = {Various hybrid-paradigm languages, designed to balance compile-time error detection, conciseness, and performance, have emerged. Scala, e.g., is interoperable with Java and has become an early leader in adoption, especially in the start-up and open-source spaces. Workshop participants experience Scala's value as a teaching language in the CS curriculum through four lecture-lab modules: In CS1, the read-eval-print loop and simple, uniform syntax aid programming in the small. In CS2, higher-order methods allow concise, efficient manipulation of collections. Advanced topics include domain-specific languages, concurrency, web apps/services, and mobile apps. Laptop recommended with Scala installed.},
  address = {ACM, 2 Penn Plaza, Suite 701, New York, NY 10121-0701, USA},
  author = {Lewis, Mark and Läufer, Konstantin and Thiruvathukal, George K.},
@@ -908,6 +957,7 @@ month = {8}
 }
 
 @inproceedings{EduPar2012,
+  abbr = {TCPP},
   title     = {Early Adopter Report: PDC Modules for Every Level: A Comprehensive Model for Incorporating PDC Topics into the Existing Undergraduate Curriculum (Poster)},
   author    = {Läufer, Konstantin and Sekharan, Chandra and Thiruvathukal, George K. and Kaylor, Joseph P.},
   booktitle = {2nd NSF/IEEE-CS TCPP Workshop on Parallel and Distributed Computing Education ({EduPar}), Shanghai, China},
@@ -949,7 +999,7 @@ month = {8}
   note =         "Invited paper"
 }
 @TechReport{laufer1987,
-  author = 	 {K. Läufer and W. Mehl},
+  author = 	 {Läufer, Konstantin and Mehl, Wolfgang},
   title = 	 {Cobra Address User Manual},
   institution =  {Cobra GmbH},
   address =      {Technologiezentrum Konstanz, Germany},
@@ -957,7 +1007,7 @@ month = {8}
   annote =       {Address book for Microsoft Windows}
 }
 @TechReport{laufer1986,
-  author = 	 {K. Läufer},
+  author = 	 {Läufer, Konstantin},
   title = 	 {Cobra Litsy User Manual},
   institution =  {Cobra GmbH},
   address =      {Technologiezentrum Konstanz, Germany},
@@ -965,7 +1015,7 @@ month = {8}
   annote =       {Bibliography manager for Microsoft Windows}
 }
 @TechReport{laufer1984,
-  author = 	 {R. Dierenbach and H.-E. Erbs and K. Läufer},
+  author = 	 {Dierenbach, Ralf and Erbs, Heinz-Erich and Läufer, Konstantin},
   title = 	 {MailBox User Manual and Administration Guide},
   institution =  {Universität Konstanz},
   year = 	 1984,

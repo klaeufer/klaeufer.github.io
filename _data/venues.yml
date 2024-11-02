@@ -1,9 +1,119 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"CiSE":
+  url: https://www.computer.org/csdl/magazine/cs
+  color: "#09629a"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Computer":
+  url: https://www.computer.org/csdl/magazine/co
+  color: "#09629a"
 
-"Vision":
-  color: "#009f36"
+"TCPP":
+  url: https://tcpp.cs.gsu.edu/curriculum/?q=node/21183
+  color: "#3092cc"
+
+"CRC":
+  url: https://www.routledge.com/corporate/about-us/crc-press
+  color: "#282f6a"
+
+"PHOENIX":
+  url: https://link-springer-com.flagship.luc.edu/book/10.1007/978-1-4471-3794-8
+  color: "#f0ffee"
+
+"CLEI":
+  url: https://clei.org
+  color: "#6e98c4"
+
+"ML":
+  url: https://compilers.iecc.com/comparch/article/92-05-048
+  color: "#6666c9"
+
+"OOPSLA":
+  url: https://www.sigplan.org/Conferences/OOPSLA/
+  color: "#6666c9"
+
+"COOTS":
+  url: https://www.usenix.org/conferences/byname/134
+  color: "#fbd155"
+
+"POPL":
+  url: https://www.sigplan.org/Conferences/POPL/
+  color: "#6666c9"
+
+"ICCL":
+  url: https://www.computer.org/csdl/proceedings/1000134
+  color: "#fca22c"
+  
+"CP":
+  url: https://link-springer-com/book/10.1007/3-540-45349-0
+  color: "#8b0d58"
+
+"FSE":
+  url: https://www.sigsoft.org/events.html#fse_esec
+  color: "#6666c9"
+
+"IC":
+  url: https://www.sigmod.org/publications/dblp///db/conf/ic/ic2003-2.html
+
+"IPDPS":
+  url: https://www.ipdps.org/
+  color: "#fca22c"
+
+"SEKE":
+  url: https://ksiresearch.org/
+
+"EIT":
+  url: https://www.eit-conference.org/
+  color: "#fca22c"
+
+"ICWS":
+  url: https://conferences.computer.org/icws/
+  color: "#fca22c"
+  
+"ICSOFT":
+  url: https://icsoft.scitevents.org/Home.aspx
+  color: "#3c5f35"
+
+"WWW":
+  url: https://thewebconf.org
+  color: "#6666c9"
+
+"WSSSPE":
+  url: https://wssspe.researchcomputing.org.uk/
+
+"SIES":
+  url: https://ieee-sies.org/
+  color: "#fca22c"  
+
+"Scala":
+  url: https://2019.ecoop.org/home/scala-2019
+  color: "#6666c9"
+
+"ASE":
+  url: https://ase-conferences.org/
+  color: "#337ab5"
+
+"FIE":
+  url: https://fie-conference.org/
+  color: "#fca22c"
+
+"JFP":
+  url: https://www.cambridge.org/core/journals/journal-of-functional-programming
+
+"TOPLAS":
+  url: https://dl.acm.org/journal/toplas
+
+"ENTCS":
+  url: https://www.entcs.org/
+
+"CJ":
+  url: https://academic.oup.com/comjnl
+  color: "#bdcf2d"
+
+"IJST":
+  url: https://link-springer-com.flagship.luc.edu/journal/10772
+
+"SIGSOFT":
+  url: https://www2.sigsoft.org/
+  color: "#6666c9"
+
+"EVB":
+  url: https://journals.sagepub.com/home/evb
