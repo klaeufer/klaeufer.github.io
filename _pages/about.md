@@ -8,17 +8,23 @@ subtitle: >
    How to pronounce (IPA): ˈkɔnstantiːn ˈlɔʏfɐ
    <br/>
    Pronouns: he/él/er/lui
+   <br/>
+   [Official homepage](https://www.luc.edu/cs/aboutus/people/profiles/lauferkonstantin.shtml)
+   <br/>
+   [Blog](https://dev.to/klaeufer)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Computer Science</p>
-    <p>Loyola University Chicago</p>
-    <p>1032 W Sheridan Rd</p>
-    <p>Chicago, Illinois 60660-1537</p>
-    <p>USA</p>
+    [Department of Computer Science](https://luc.edu/cs)
+    <br/>
+    [Loyola University Chicago](https://luc.edu)
+    <br/>
+    1032 W Sheridan Rd
+    <br/>
+    Chicago, Illinois 60660-1537, USA
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
