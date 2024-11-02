@@ -111,7 +111,7 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: https://www.luc.edu/cs/aboutus/people/profiles/lauferkonstantin.shtml
 x_username: klaeufer # your X handle
-youtube_id: klaeufer # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: KonstantinLaufer # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: laufer # your zotero username
 
 contact_note: >
@@ -320,10 +320,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Laufer, Läufer]
+  first_name: [Konstantin, K.]
 
-  style: apa
+  style: ieee-with-url
   locale: en
 
   source: /_bibliography/
