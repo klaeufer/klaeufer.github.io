@@ -13,7 +13,8 @@
   pdf         = {https://arxiv.org/pdf/1705.02899},
   code        = {https://github.com/lucoodevcourse},
   abstract    = {In this chapter, we explore various parallel and distributed computing topics from a user-centric software engineering perspective. Specifically, in the context of mobile application development, we study the basic building blocks of interactive applications in the form of events, timers, and asynchronous activities, along with related software modeling, architecture, and design topics.},
-  bibtex_show=1
+  bibtex_show=1,
+  selected = {true}
  }
 
 @incollection{CloudBookRestFS,
@@ -57,9 +58,9 @@
       website = {https://lucformalmethodscourse.github.io},
       code = {https://colab.research.google.com/drive/1c3YccNdvV73wSWcz-3h6-NQFvJYIdn0V},
       abstract = {Background: In this paper, we present our initial efforts to integrate formal methods, with a focus on model-checking specifications written in Temporal Logic of Actions (TLA+), into computer science education, targeting undergraduate juniors/seniors and graduate students. Formal methods can play a key role in ensuring correct behavior of safety-critical systems, yet remain underutilized in educational and industry contexts. Aims: We aim to (1) qualitatively assess the state of formal methods in computer science programs, (2) construct level-appropriate examples that could be included midway into one's undergraduate studies, (3) demonstrate how to address successive "failures" through progressively stringent safety and liveness requirements, and (4) establish an ongoing framework for assessing interest and relevance among students. Methods: After starting with a refresher on mathematical logic, students specify the rules of simple puzzles in TLA+ and use its included model checker (known as TLC) to find a solution. We gradually escalate to more complex, dynamic, event-driven systems, such as the control logic of a microwave oven, where students will study safety and liveness requirements. We subsequently discuss explicit concurrency, along with thread safety and deadlock avoidance, by modeling bounded counters and buffers. Results: Our initial findings suggest that through careful curricular design and choice of examples and tools, it is possible to inspire and cultivate a new generation of software engineers proficient in formal methods. Conclusions: Our initial efforts suggest that 84\% of our students had a positive experience in our formal methods course. Future plans include a longitudinal analysis within our own institution and proposals to partner with other institutions to explore the effectiveness of our open-source and open-access modules.},
-      bibtex_show=1
+      bibtex_show=1,
+      selected = {true}
 }
-
 
 @InProceedings{EduHPC22,
   abbr = {TCPP},
@@ -74,7 +75,8 @@
   website =      {https://unoapi.org},
   code =         {https://github.com/LoyolaChicagoCode/unoapi-dpcpp-examples},
   abstract =     {Abstract—oneAPI is a major initiative by Intel aimed at making it easier to program heterogeneous architectures used in high-performance computing using a unified application programming interface (API). While raising the abstraction level via a unified API represents a promising step for the current generation of students and practitioners to embrace highperformance computing, we argue that a curriculum of welldeveloped software engineering methods and well-crafted exemplars will be necessary to ensure interest by this audience and those who teach them. We aim to bridge the gap by developing a curriculum—codenamed UnoAPI—that takes a more holistic approach by looking beyond language and framework to include the broader development ecosystem, similar to the experience found in popular HPC languages such as Python. We hope to make parallel programming a more attractive option by making it look more like general application development in modern languages being used by most students and educators today. Our curriculum emanates from the perspective of well-crafted exemplars from the foundations of computer systems—given that most HPC architectures of interest begin from the systems tradition—with an integrated treatment of essential principles of distributed systems, programming languages, and software engineering. We argue that a curriculum should cover the essence of these topics to attract students to HPC and enable them to confidently solve computational problems using oneAPI. By the time of this submission, we have shared our materials with a small group of undergraduate sophomores, and their responses have been encouraging in terms of self-reported comprehension and ability to reproduce the compilation and execution of exemplars on their personal systems. We plan a follow-up study with a larger cohort by incorporating some of our materials in our existing course on High-Performance Computing.},
-  bibtex_show=1
+  bibtex_show=1,
+  selected = {true}
 }
 
 @inproceedings{ASE_2022,
@@ -132,7 +134,8 @@
  year = {2019},
  code = {https://github.com/klaeufer/issue10709-scala},
  arxiv = {1808.09630},
- bibtex_show=1
+ bibtex_show=1,
+ selected = {true}
  }
 
 @inproceedings{wl_honig_framework_2015,
@@ -537,7 +540,9 @@ Roland Dietrich},
  title = {Type Classes are Signatures of Abstract Types},
  url = {https://doi.org/10.1007/978-1-4471-3794-8_10},
  year = {1991},
- abbr = {PHOENIX}, bibtex_show=1}
+ abbr = {PHOENIX},
+ bibtex_show=1
+ }
 
 
 
@@ -1226,9 +1231,9 @@ To support our research questions, we have developed a proof of concept of a mob
   url = {http://arxiv.org/abs/1905.13674},
   pdf = {http://arxiv.org/pdf/1905.13674},
   abstract = {Design patterns are distilled from many real systems to catalog common programming practice. However, some object-oriented design patterns are distorted or overly complicated because of the lack of supporting programming language constructs or mechanisms. For this paper, we have analyzed several published design patterns looking for idiomatic ways of working around constraints of the implementation language. From this analysis, we lay a groundwork of general-purpose language constructs and mechanisms that, if provided by a statically typed, object-oriented language, would better support the implementation of design patterns and, transitively, benefit the construction of many real systems. In particular, our catalog of language constructs includes subtyping separate from inheritance, lexically scoped closure objects independent of classes, and multimethod dispatch. The proposed constructs and mechanisms are not radically new, but rather are adopted from a variety of languages and programming language research and combined in a new, orthogonal manner. We argue that by describing design patterns in terms of the proposed constructs and mechanisms, pattern descriptions become simpler and, therefore, accessible to a larger number of language communities. Constructs and mechanisms lacking in a particular language can be implemented using paradigmatic idioms.},
-  bibtex_show=1
+  bibtex_show=1,
+  selected = {true}
  }
-
 
 @TechReport{Laufer_Transformational_1991,
   author =       "L{\"{a}}ufer, Konstantin",
@@ -1250,6 +1255,21 @@ To support our research questions, we have developed a proof of concept of a mob
         SCHOOL             = {New York University},
         TITLE              = {Polymorphic Type Inference and Abstract 
                               Data Types},
-        YEAR               = {1992}, bibtex_show=1}
+        YEAR               = {1992},
+	ABSTRACT           = {
+Many statically-typed programming languages provide an abstract data type construct, such as the package in Ada, the cluster in CLU, and the module in Modula2. However, in most of these languages, instances of abstract data types are not first-class values. Thus they cannot be assigned to a variable, passed as a function parameter, or returned as a function result.
 
+The higher-order functional language ML has a strong and static type system with parametric polymorphism. In addition, ML provides type reconstruction and consequently does not require type declarations for identifiers. Although the ML module system supports abstract data types, their instances cannot be used as first-class values for type-theoretic reasons.
+
+In this dissertation, we describe a family of extensions of ML. While retaining ML’s static type discipline, type reconstruction, and most of its syntax, we add significant expressive power to the language by incorporating first-class abstract types as an extension of ML’s free algebraic datatypes. In particular, we are now able to express multiple implementations of a given abstract type; heterogeneous aggregates of different implementations of the same abstract type; and dynamic dispatching of operations with respect to the implementation type.
+
+Following Mitchell and Plotkin, we formalize abstract types in terms of existentially quantified types. We prove that our type system is semantically sound with respect to a standard denotational semantics.
+
+We then present an extension of Haskell, a non-strict functional language that uses type classes to capture systematic overloading. This language results from incorporating existentially quantified types into Haskell and gives us first-class abstract types with type classes as their interfaces. We can now express heterogeneous structures over type classes. The language is statically typed and offers comparable flexibility to object-oriented languages. Its semantics is defined through a type-preserving translation to a modified version of our ML extension.
+
+We have implemented a prototype of an interpreter for our language, including the type reconstruction algorithm, in Standard ML.	
+	},
+	pdf = {phdthesis.pdf},
+	bibtex_show=1
+}
 
