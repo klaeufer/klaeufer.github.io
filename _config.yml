@@ -136,8 +136,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: Posts from my external feeds on <a href="https://dev.to/klaeufer">dev.to</a> and <a href="https://linkedin.com/in/laufer">LinkedIn</a>.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -172,10 +172,13 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-   - name: Blog
-     rss_url: https://dev.to/feed/klaeufer
-#     posts:
-#        - url: https://dev.to/klaeufer
+  - name: LinkedIn
+    posts:
+      - url: https://www.linkedin.com/posts/laufer_computer-science-assistant-professor-algorithms-activity-7128915068733313024-qM8L
+        published_date: 2023-12-01
+  - name: dev.to
+    rss_url: https://dev.to/feed/klaeufer
+
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
 #  - name: Google Blog
@@ -312,8 +315,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+#display_tags: ["java", "scala", "rust", "testing", "metrics", "hamradio"] # these tags will be displayed on the front page of your blog
+#display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
