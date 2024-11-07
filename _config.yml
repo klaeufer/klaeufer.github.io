@@ -176,8 +176,8 @@ external_sources:
     posts:
       - url: https://www.linkedin.com/posts/laufer_computer-science-assistant-professor-algorithms-activity-7128915068733313024-qM8L
         published_date: 2023-12-01
-  - name: dev.to
-    rss_url: https://dev.to/feed/klaeufer
+#  - name: dev.to
+#    rss_url: https://dev.to/feed/klaeufer
 
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
