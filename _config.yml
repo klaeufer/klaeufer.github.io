@@ -174,8 +174,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: LinkedIn
     posts:
-      - url: https://www.linkedin.com/posts/laufer_computer-science-assistant-professor-algorithms-activity-7128915068733313024-qM8L
-        published_date: 2023-12-01
+      - url: https://www.linkedin.com/posts/laufer_loyola-university-chicago-career-site-activity-7261045694176645120-W2en
+        published_date: 2024-11-09
 #  - name: dev.to
 #    rss_url: https://dev.to/feed/klaeufer
 
