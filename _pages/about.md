@@ -58,6 +58,6 @@ Music (saxophone), trail running (non-ultra), strength training, soccer, day hik
 >
 > - Unknown source quoted by [Scott A. Brady](https://www.instagram.com/scott.a.brady/)
 
-## Languages
+## Human languages
 
 eng (C2+)/spa (C1)/deu (C2+)/gsw (heritage learner, B2?)/ita (B1)/fra (A2-)
