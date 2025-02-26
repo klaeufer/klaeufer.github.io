@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - "assets/**"
+      - "_sass/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -34,6 +35,7 @@ on:
       - main
     paths:
       - "assets/**"
+      - "_sass/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -70,7 +72,7 @@ jobs:
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3.6"
+          ruby-version: "3.3.5"
           bundler-cache: true
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
@@ -86,6 +88,7 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
+          sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
