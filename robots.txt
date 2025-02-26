@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://laufer.cs.luc.edu/sitemap.xml
+User-agent: * Disallow: Sitemap: https://laufer.cs.luc.edu/sitemap.xml
