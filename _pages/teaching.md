@@ -17,6 +17,9 @@ nav_order: 6
   - Tue 16:15-18:45 LSC
   - [Sakai site](https://sakai.luc.edu/portal/site/COMP_335_001_5828_1252)
   - [Course website](https://lucformalmethodscourse.github.io)
+- Office hour:
+  - Tue 19:00-19:30 (after class - no appointment required)
+  - Wed/Fri 14:00-15:45 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
 
 ## Fall 2024
 
@@ -28,9 +31,6 @@ nav_order: 6
   - Thu 16:15-18:45 LSC
   - [Sakai site](https://sakai.luc.edu/portal/site/COMP_373_001_6519_1246)
   - [Syllabus](https://github.com/klaeufer/lucadvoopcourse/blob/main/Syllabus2024Fall.md)
-- Office hour:
-  - Tue/Thu 19:00-19:30 (after class - no appointment required)
-  - Wed/Fri 14:00-15:45 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
   
 ## Code examples
 
