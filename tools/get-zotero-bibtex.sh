@@ -8,12 +8,12 @@ ZOTERO_BIB_URLS=_data/zotero-bibs.txt
 ZOTERO_API=https://api.zotero.org
 
 mkdir -p $BIB_DIR
-mkdir -p $TMPDIR/$BIB_DIR
+mkdir -p $TMPDIR$BIB_DIR
 
 for u in $(cut -d/ -f 5-6 $ZOTERO_BIB_URLS) ; do
 
   GROUP_ID="${u%/*}"
-  OUTPUT_FILE="$TMPDIR/$BIB_DIR/${u#*/}.bib"
+  OUTPUT_FILE="$TMPDIR$BIB_DIR/${u#*/}.bib"
 
   # To ensure correct export of TechReport and PhDThesis entries, 
   # use format=bibtex, NOT biblatex
@@ -24,13 +24,13 @@ for u in $(cut -d/ -f 5-6 $ZOTERO_BIB_URLS) ; do
 done
 
 echo "Sanitizing downloaded bib files"
-for bibfile in $TMPDIR/$BIB_DIR/*.bib
+for bibfile in $TMPDIR$BIB_DIR/*.bib
 do
     bibfile_raw=${bibfile%.bib}-raw.bib
     mv "$bibfile" "$bibfile_raw"
     tools/sanitize-zotero-bib.py "$bibfile_raw" "$bibfile"
 done
-rm -f $TMPDIR/$BIB_DIR/*-raw.bib
+rm -f $TMPDIR$BIB_DIR/*-raw.bib
 
 echo "Collating downloaded bibs"
-cat $TMPDIR/$BIB_DIR/*.bib > $BIB_DIR/papers.bib
+cat $TMPDIR$BIB_DIR/*.bib > $BIB_DIR/papers.bib
