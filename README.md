@@ -1,3 +1,5 @@
+[![Deploy site](https://github.com/klaeufer/klaeufer.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/klaeufer/klaeufer.github.io/actions/workflows/deploy.yml)
+
 # Konstantin Läufer's personal website
 
 Based on the amazing [al-folio](https://github.com/alshedivat/al-folio) theme.
