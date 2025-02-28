@@ -8,6 +8,6 @@ See also [klaeufer/cv](https://github.com/klaeufer/cv).
 ## Customizations and fixes
 
 - Own site content (obviously) focusing on academic activities
-- Direct integration with Zotero (see [tools](../tree/main/tools) and [_data/zotero-bibs.txt](../tree/main/_data/zotero-bibs.txt))
+- Direct integration with Zotero (see [tools](../../tree/main/tools) and [_data/zotero-bibs.txt](../../tree/main/_data/zotero-bibs.txt))
 - Fixed link to YouTube channel in `_includes`
 - Fixed RSS parsing by adding `User-Agent` header in _plugins/external-posts.rb
