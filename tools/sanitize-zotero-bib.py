@@ -11,10 +11,13 @@ def expand_tex_fields(entry):
     Only replaces `\\_` with `_` in keys but leaves other characters like `+` untouched.
     """
     if 'note' in entry:
+        note_entry = entry['note']
+        del entry['note']
+
         new_fields = {}
         new_note_lines = []
         
-        for line in entry['note'].splitlines():
+        for line in note_entry.splitlines():
             tex_match = re.match(r"tex\.([\w\+\_\\]+):\s*(.*)", line)  # Allow underscores, plus, and letters
             if tex_match:
                 key, value = tex_match.groups()
@@ -29,11 +32,39 @@ def expand_tex_fields(entry):
 
         # Retain the modified note field (excluding extracted tex.* fields)
         if new_note_lines:
-            entry['note'] = "\n".join(new_note_lines)
-        else:
-            del entry['note']
+            entry['extra'] = "\n".join(new_note_lines)
 
     return entry
+
+def add_year_if_missing(entry):
+    """
+    Adds a year field based on date.
+    jekyll-scholar will break without year.
+    """
+    if not 'year' in entry:
+        match = re.match(r"(\d{4})", entry['date'])
+        if match:
+            entry['year'] = match.group(1)
+
+def add_jekyll_scholar_fields(entry):
+    """
+    Adds any missing fields required by or beneficial to jekyll-scholar as
+    described at https://github.com/alshedivat/al-folio/blob/main/CUSTOMIZE.md.
+    """
+    if 'arxiv' in entry:
+        arxiv = entry['arxiv']
+        if not 'pdf' in entry:
+            entry['pdf'] = 'https://arxiv.org/pdf/' + arxiv
+
+    if 'url' in entry:
+        if 'ecommons.luc.edu' in entry['url']:
+            if not 'pdf' in entry:
+                entry['pdf'] = entry['url']
+        elif not ('arxiv' in entry['url']
+                or '.pdf' in entry['url']
+                or 'website' in entry):
+            entry['website'] = entry['url']
+
 
 def process_bibtex_file(input_bib, output_bib):
     """
@@ -47,6 +78,8 @@ def process_bibtex_file(input_bib, output_bib):
     # Expand tex.* fields for each entry
     for entry in bib_database.entries:
         expand_tex_fields(entry)
+        add_year_if_missing(entry)
+        add_jekyll_scholar_fields(entry)
 
     # Write the transformed BibTeX back to a file
     with open(output_bib, 'w', encoding='utf-8') as bib_file:
