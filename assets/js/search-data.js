@@ -177,7 +177,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@KonstantinLaufer", "_blank");
+          window.open("https://youtube.com/@klaeufer", "_blank");
         },
       },{
         id: 'social-zotero',
