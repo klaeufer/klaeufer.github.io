@@ -34,6 +34,9 @@ def expand_tex_fields(entry):
         if new_note_lines:
             entry['extra'] = "\n".join(new_note_lines)
 
+    if 'type' in entry:
+        entry['note'] = entry['type']
+
     return entry
 
 def add_year_if_missing(entry):
