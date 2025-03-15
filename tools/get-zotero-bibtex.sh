@@ -7,6 +7,7 @@ BIB_DIR=_bibliography
 ZOTERO_BIB_URLS=_data/zotero-bibs.txt
 ZOTERO_API=https://api.zotero.org
 
+rm -rf $BIB_DIR
 mkdir -p $BIB_DIR
 
 for u in $(cut -d/ -f 5-6 $ZOTERO_BIB_URLS) ; do
@@ -14,7 +15,7 @@ for u in $(cut -d/ -f 5-6 $ZOTERO_BIB_URLS) ; do
   GROUP_ID="${u%/*}"
   OUTPUT_FILE="$BIB_DIR/${u#*/}.bib"
 
-  curl -L "$ZOTERO_API/groups/$GROUP_ID/items/top?format=biblatex&limit=100" -o "$OUTPUT_FILE"
+  curl -L "$ZOTERO_API/groups/$GROUP_ID/items/top?format=bibtex&limit=100" -o "$OUTPUT_FILE"
 
   echo "BibTeX file downloaded: $OUTPUT_FILE"
 
