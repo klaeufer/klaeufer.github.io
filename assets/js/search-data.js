@@ -74,7 +74,7 @@ ninja.data = [{
       
         title: 'Computer Science, Assistant Professor (Algorithms, Languages, Formal… | Konstantin Läufer <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "#LoyolaChicago #ComputerScience invites applications for a full-time, tenure-track Assistant Professor position beginning Fall 2024 in the areas of…",
+      description: "#LoyolaChicago #ComputerScience invites applications for a full-time, tenure-track Assistant Professor position beginning Fall 2024 in the areas of #Algorithms, #ProgrammingLanguages, #FormalMethods, #TheoryOfComputation, and #SoftwareEngineering. Please apply at https://lnkd.in/g8xHXZQE. Review of applications will begin immediately and continue until the position is filled. Applications submitted before January 2nd, 2024, will receive full consideration.",
       section: "Posts",
       handler: () => {
         
