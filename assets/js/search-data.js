@@ -163,7 +163,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.luc.edu/cs/aboutus/people/profiles/lauferkonstantin.shtml", "_blank");
+          window.open("https://scholars.luc.edu/en/persons/konstantin-l%C3%A4ufer", "_blank");
         },
       },{
         id: 'social-x',
