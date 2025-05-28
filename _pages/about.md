@@ -11,7 +11,7 @@ subtitle: >
    <br/>
    <a href="https://scholars.luc.edu/en/persons/konstantin-l%C3%A4ufer">Faculty profile</a>
    &bull;
-   <a href="https://github.com/klaeufer/cv/releases/latest/">CV</a>   
+   <a href="https://github.com/klaeufer/cv/releases/latest/download/klaeufer.pdf">CV</a>   
    &bull;
    <a href="https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=Konstantin&PILastName=Laufer&IncludeCoPI=true&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&ExpiredAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=">Grants</a>
    &bull;
