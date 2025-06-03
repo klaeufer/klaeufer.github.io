@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - klaeufer/HOTLangBench
   - lucproglangcourse/lucproglangcourse.github.io
   - lucformalmethodscourse/lucformalmethodscourse.github.io
