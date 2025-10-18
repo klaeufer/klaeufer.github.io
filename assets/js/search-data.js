@@ -70,9 +70,9 @@ ninja.data = [{
           window.open("https://dev.to/klaeufer/jacoco-doesnt-support-vacuously-true-100-code-coverage-1caa", "_blank");
         
       },
-    },{id: "post-computer-science-assistant-professor-algorithms-languages-formal-konstantin-läufer",
+    },{id: "post-computer-science-assistant-professor-algorithms-languages-formal-methods-computation-and-software-engineering-tenure-track-konstantin-läufer",
       
-        title: 'Computer Science, Assistant Professor (Algorithms, Languages, Formal… | Konstantin Läufer <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Computer Science, Assistant Professor (Algorithms, Languages, Formal Methods, Computation, and Software Engineering), Tenure-Track... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "#LoyolaChicago #ComputerScience invites applications for a full-time, tenure-track Assistant Professor position beginning Fall 2024 in the areas of #Algorithms, #ProgrammingLanguages, #FormalMethods, #TheoryOfComputation, and #SoftwareEngineering. Please apply at https://lnkd.in/g8xHXZQE. Review of applications will begin immediately and continue until the position is filled. Applications submitted before January 2nd, 2024, will receive full consideration.",
       section: "Posts",
