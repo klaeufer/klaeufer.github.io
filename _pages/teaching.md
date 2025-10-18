@@ -33,7 +33,7 @@ nav_order: 6
   - [Sakai site](https://sakai.luc.edu/portal/site/COMP_373_001_4976_1256)
   - [Syllabus](https://github.com/klaeufer/lucadvoopcourse/blob/main/Syllabus2025Fall.md)
 - Office hour:
-  - Mon/Wed/Fri 14:00-15:00 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
+  - Mon/Wed/Fri 14:00-15:00 (please use [Calendly](https://calendly.com/laufer) to make an in-person or online appointment)
   
 ## Code examples
 
