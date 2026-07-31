@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Spring 2026
+## Spring 2027
 
 - COMP 335/435: Formal Methods in Software Engineering
   - Tue 16:15-18:45 LSC
@@ -18,23 +18,27 @@ nav_order: 6
   - MWF 10:25-11:15 LSC
   - Sakai site: TODO
   - [Course website](https://lucproglangcourse.github.io)
+  - [Syllabus](https://lucproglangcourse.github.io/90-syllabus.html)
 - Office hour:
   - Tue 18:45-19:15 (after class - no appointment required)
-  - Mon/Wed/Fri 14:00-15:00 (please use [Calendly](https://calendly.com/laufer) to make an in-person or online appointment)
-
-## Fall 2025
+  - Mon/Wed/Fri TBD (please use [Calendly](https://calendly.com/laufer) to make an in-person or online appointment)
+  
+## Fall 2026
 
 - COMP 371/471: Theory (and Practice) of Programming Languages
   - MWF 09:20-10:10 LSC
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_371_001_2911_1256)
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_371_001_2706_1266)
+  - [Course website](https://lucproglangcourse.github.io)
   - [Syllabus](https://lucproglangcourse.github.io/90-syllabus.html)
 - COMP 373/473: Advanced Object-Oriented Programming
-  - MWF 12:35-13:25 LSC
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_373_001_4976_1256)
+  - Tue 16:15-18:45 LSC
+  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_373_001_4100_1266)
+  - [Course website](https://github.com/klaeufer/lucswarchcourse)
   - [Syllabus](https://github.com/klaeufer/lucadvoopcourse/blob/main/Syllabus2025Fall.md)
 - Office hour:
-  - Mon/Wed/Fri 14:00-15:00 (please use [Calendly](https://calendly.com/laufer) to make an in-person or online appointment)
-  
+  - Tue 18:45-19:15 (after class - no appointment required)
+  - Mon/Wed/Fri TBD (please use [Calendly](https://calendly.com/laufer) to make an in-person or online appointment)
+
 ## Code examples
 
 [GitHub](https://github.com/loyolachicagocode)
