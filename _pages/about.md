@@ -21,7 +21,6 @@ subtitle: >
   <br/>
   <strong>Loyola students, staff, and faculty: for the fastest response, please message me via MS Teams!</strong>
 
-
 profile:
   align: right
   image: prof_pic.jpg
