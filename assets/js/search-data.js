@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-unicode-string-length-can-mean-different-things-in-different-languages",
+        },{id: "post-my-fish-shell-ai-setup-on-macos",
+      
+        title: 'My fish shell AI setup on macOS <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "I installed the fish shell and fisher plugin manager through the malt package manager client (you can also use Homebrew, and I&#39;m showing the paths resulting from a Homebrew install). I also just started using the Starship prompt.The instructions also work on Linux, but you&#39;d need to install a current version of fish through the corresponding PPA:sudo add-apt-repository ppa:fish-shell/release-4Once installed, you can choose fish as your default shell:$ chsh -s /opt/homebrew/bin/fish # set as systemwide shellThen I installed these plugins using fisher. You can read the documentation in their Github repos:❯ fisher listjorgebucaran/fisherrealiserad/fish-aifranciscolourenco/donejethrokuan/zpatrickf1/fzf.fishreitzig/sdkman-for-fish@v2.1.0You need to install the related tools, such as fzf, sdkman, etc. separately.Here are my settings for tide to look like omz and sdkman to work as intended.❯ cat ~/.config/fish/config.fisheval &quot;$(brew shellenv)&quot;fish_add_path $HOME/.local/binfish_add_path $HOME/.cargo/binif status is-interactive    # Commands to run in interactive sessions can go here    starship init fish | source    enable_transienceendGroq (not to be confused with Grok) can provide a free API key for fish AI integration, where you can type a shell comment and a hotkey, and fish expands it to the actual shell command.❯ cat ~/.config/fish-ai.ini[fish-ai]configuration = groq[groq]provider = groqmodel = openai/gpt-oss-20bapi_key = ...I had to add these completions to get git tag TAB to work.❯ cat ~/.config/fish/completions/git.fishcomplete -c git -n &#39;__fish_seen_subcommand_from tag&#39; -f -a &#39;(command git tag 2&amp;gt;/dev/null)&#39;",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://dev.to/klaeufer/my-fish-shell-ai-setup-on-macos-7mp", "_blank");
+        
+      },
+    },{id: "post-unicode-string-length-can-mean-different-things-in-different-languages",
       
         title: 'Unicode string length can mean different things in different languages <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
