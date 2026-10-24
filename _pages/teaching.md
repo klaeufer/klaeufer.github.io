@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Spring 2027
+## Spring 2027 (tentative)
 
 - COMP 335/435: Formal Methods in Software Engineering
   - Tue 16:15-18:45 LSC
