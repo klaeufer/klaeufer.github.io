@@ -22,7 +22,7 @@ nav_order: 6
 - Office hour:
   - Tue 18:45-19:15 (after class - no appointment required)
   - Mon/Wed/Fri TBD (please use [Calendly](https://calendly.com/laufer) to make an in-person or online appointment)
-  
+
 ## Fall 2026
 
 - COMP 371/471: Theory (and Practice) of Programming Languages

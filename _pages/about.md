@@ -3,19 +3,19 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-   Welcome! Willkumme zäme! ¡Bienvenidos/as! Benvenuti/e!
-   <br/>
-   How to pronounce (IPA): ˈkɔnstantiːn ˈlɔʏfɐ
-   <br/>
-   Pronouns: he/él/er/lui
-   <br/>
-   <a href="https://scholars.luc.edu/en/persons/konstantin-l%C3%A4ufer">Faculty profile</a>
-   &bull;
-   <a href="https://github.com/klaeufer/cv/releases/latest/download/klaeufer.pdf">CV</a>   
-   &bull;
-   <a href="https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=Konstantin&PILastName=Laufer&IncludeCoPI=true&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&ExpiredAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=">Grants</a>
-   &bull;
-   <a href="https://calendly.com/laufer/meeting">Make an appointment</a>
+  Welcome! Willkumme zäme! ¡Bienvenidos/as! Benvenuti/e!
+  <br/>
+  How to pronounce (IPA): ˈkɔnstantiːn ˈlɔʏfɐ
+  <br/>
+  Pronouns: he/él/er/lui
+  <br/>
+  <a href="https://scholars.luc.edu/en/persons/konstantin-l%C3%A4ufer">Faculty profile</a>
+  &bull;
+  <a href="https://github.com/klaeufer/cv/releases/latest/download/klaeufer.pdf">CV</a>   
+  &bull;
+  <a href="https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=Konstantin&PILastName=Laufer&IncludeCoPI=true&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&ExpiredAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=">Grants</a>
+  &bull;
+  <a href="https://calendly.com/laufer/meeting">Make an appointment</a>
 
 profile:
   align: right
@@ -37,14 +37,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
 ## Brief bio
 
-I am a professor of computer science at Loyola University Chicago. I majored in physics at the University of Konstanz, Germany, and attended Rutgers University, New Jersey, as an exchange student. Prior to joining Loyola in 1992, I earned a PhD in computer science from the Courant Institute at New York University under the supervision of [Benjamin F. Goldberg](https://cs.nyu.edu/~goldberg) and [Martin Odersky](https://lampwww.epfl.ch/~odersky). 
+I am a professor of computer science at Loyola University Chicago. I majored in physics at the University of Konstanz, Germany, and attended Rutgers University, New Jersey, as an exchange student. Prior to joining Loyola in 1992, I earned a PhD in computer science from the Courant Institute at New York University under the supervision of [Benjamin F. Goldberg](https://cs.nyu.edu/~goldberg) and [Martin Odersky](https://lampwww.epfl.ch/~odersky).
 
-My research and teaching interests include programming languages, software architecture, distributed and pervasive computing systems, and data engineering, as well as applications in environmental sustainability and other areas of social justice. I co-direct the [AI for Formal Methods Lab](https://ai4fm.cs.luc.edu) and am affiliated with the [Software and Systems Lab (SSL)](https://ssl.cs.luc.edu) and the [Vehicle Technology Lab](https://vlab.cs.luc.edu). My research has been funded by government agencies and corporations. I'm a co-inventor on two patents owned by Lucent Technologies, where I was a research consultant (1996-2000). 
+My research and teaching interests include programming languages, software architecture, distributed and pervasive computing systems, and data engineering, as well as applications in environmental sustainability and other areas of social justice. I co-direct the [AI for Formal Methods Lab](https://ai4fm.cs.luc.edu) and am affiliated with the [Software and Systems Lab (SSL)](https://ssl.cs.luc.edu) and the [Vehicle Technology Lab](https://vlab.cs.luc.edu). My research has been funded by government agencies and corporations. I'm a co-inventor on two patents owned by Lucent Technologies, where I was a research consultant (1996-2000).
 
-I also served in various administrative roles, including assistant chair (1998-2001),  associate dean of the graduate school (2005-06), department chair (2012-2018), and graduate program director (2019-20).
+I also served in various administrative roles, including assistant chair (1998-2001), associate dean of the graduate school (2005-06), department chair (2012-2018), and graduate program director (2019-20).
 
 ## Hobbies
 

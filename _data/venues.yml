@@ -40,7 +40,7 @@
 "ICCL":
   url: https://www.computer.org/csdl/proceedings/1000134
   color: "#fca22c"
-  
+
 "CP":
   url: https://link-springer-com/book/10.1007/3-540-45349-0
   color: "#8b0d58"
@@ -66,7 +66,7 @@
 "ICWS":
   url: https://conferences.computer.org/icws/
   color: "#fca22c"
-  
+
 "ICSOFT":
   url: https://icsoft.scitevents.org/Home.aspx
   color: "#3c5f35"
@@ -80,7 +80,7 @@
 
 "SIES":
   url: https://ieee-sies.org/
-  color: "#fca22c"  
+  color: "#fca22c"
 
 "Scala":
   url: https://2019.ecoop.org/home/scala-2019
@@ -119,4 +119,4 @@
 
 "eScience":
   url: https://www.escience-conference.org/
-  color: "#fca22c"  
+  color: "#fca22c"
