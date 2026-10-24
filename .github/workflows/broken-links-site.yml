@@ -32,7 +32,8 @@ jobs:
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade jupyter
+          pip3 install --no-cache-dir --force-reinstall -r requirements.txt
+          tools/get-zotero-bibtex.sh
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
