@@ -19,7 +19,7 @@ subtitle: >
   &bull;
   <a href="https://calendly.com">Make an appointment</a>
   <br/>
-  <strong>Loyola students, staff, and faculty: for the fastest response, please message me via MS Teams!</strong>
+  <em>Loyola students, staff, and faculty: for the fastest response, please message me via MS Teams!</em>
 
 profile:
   align: right
